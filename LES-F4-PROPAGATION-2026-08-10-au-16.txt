@@ -1,8 +1,6 @@
 📡 LES F4 PROPAGATION — Bulletin hebdomadaire
 Semaine du lundi 10 au dimanche 16 août 2026
 Établi le 10 août 2026 à partir des bulletins disponibles entre 01:53 et 15:01 UTC.
-BROUILLON — validation finale F4MAJ/JB obligatoire
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 RÉSUMÉ EXPRESS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -130,7 +128,4 @@ SOURCES ET ÉTAT DES DONNÉES
 
 L’ESA ne fournit pas, dans la source publique consultée, de prévision chiffrée directement comparable aux produits NOAA/SIDC pour cette édition. Aucune donnée n’a été inventée.
 
-⚠️ Ce bulletin est un brouillon. F4MAJ/JB reste le seul valideur final.
 73 à tous et bon trafic sur les bandes 📻
-
-Les deux brouillons sont prêts pour validation.
