@@ -2,26 +2,18 @@
 
 ## Bulletin hebdomadaire pour les radioamateurs
 
-### [▶ Ouvrir le bulletin animé](https://lesf4.github.io/propagation/)
+### [▶ Ouvrir le bulletin animé et pédagogique](https://lesf4.github.io/propagation/)
 
-L’animation s’ouvre directement dans le navigateur. Aucune installation et aucun téléchargement ne sont nécessaires.
+L'animation explique les prévisions de la semaine et traduit les indicateurs techniques en conseils simples pour les radioamateurs.
 
-### [📄 Lire ou télécharger le bulletin texte de la semaine](https://github.com/LesF4/propagation/raw/refs/heads/main/LES-F4-PROPAGATION-2026-08-10-au-16.txt)
+### [📄 Lire ou télécharger le bulletin texte de la semaine](https://github.com/LesF4/propagation/raw/refs/heads/main/LES-F4-PROPAGATION-2026-08-17-au-23.txt)
 
-Le bulletin présente notamment :
+Le bulletin présente la tendance générale, les indices Kp, Ap et F10.7, les phénomènes solaires surveillés, les bandes conseillées et une lecture jour par jour.
 
-- la tendance générale de la propagation ;
-- les indices Kp, Ap et F10.7 ;
-- les phénomènes solaires surveillés ;
-- les bandes radio conseillées ;
-- les prévisions et conseils de la semaine ;
-- les sources officielles utilisées.
-
-Les informations sont recoupées en priorité auprès de NOAA/SWPC, du SIDC, du Met Office Space Weather et de l’ESA lorsque cela est pertinent.
+Les informations sont recoupées auprès de NOAA/SWPC, du SIDC et du Met Office Space Weather.
 
 ---
 
-**Pour consulter le bulletin, utilise les deux liens ci-dessus.**  
-Le fichier `index.html` visible dans la liste est le fichier technique qui alimente automatiquement la page animée.
+Une seule édition est conservée dans le dépôt : lors de la publication d'une nouvelle semaine, le bulletin texte de la semaine précédente est supprimé.
 
 73 à tous et bon trafic sur les bandes 📻
