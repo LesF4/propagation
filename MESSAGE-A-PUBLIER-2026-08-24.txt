@@ -1,0 +1,32 @@
+DISCORD
+
+📡 PROPAGATION LES F4 — DU 24 AU 30 AOÛT 2026
+
+Le nouveau bulletin est disponible !
+
+☀️ F10.7 prévu entre 120 et 125 sfu selon NOAA : commencez sur 20 m, puis testez 17 m et 15 m. Quelques ouvertures restent possibles sur 10 m.
+
+🟢 Conditions plutôt calmes de lundi à mercredi. ⚠️ À partir de jeudi soir ou vendredi, un flux rapide de trou coronal peut rendre la propagation plus irrégulière : gardez 40 m comme bande de repli.
+
+📻 Chaque indicateur est accompagné d'une explication simple et de conseils pratiques.
+
+▶️ Bulletin animé :
+https://lesf4.github.io/propagation/
+
+📄 Bulletin texte :
+https://github.com/LesF4/propagation/raw/refs/heads/main/LES-F4-PROPAGATION-2026-08-24-au-30.txt
+
+73 à tous et bon trafic sur les bandes 📻 — F4MAJ
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+X — MESSAGE COURT À COPIER
+
+📡 Propagation HF du 24 au 30 août 2026
+
+🟢 Calme jusqu'à mercredi. ⚠️ Vent solaire rapide possible à partir de jeudi soir/vendredi.
+☀️ F10.7 : 120–125 sfu. Testez 20 m, 17 m et 15 m ; 40 m en repli.
+
+▶️ https://lesf4.github.io/propagation/
+📄 https://github.com/LesF4/propagation/raw/refs/heads/main/LES-F4-PROPAGATION-2026-08-24-au-30.txt
+
+73 à tous et bon trafic sur les bandes 📻 — F4MAJ
