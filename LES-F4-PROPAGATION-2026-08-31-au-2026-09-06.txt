@@ -1,0 +1,75 @@
+📡 LES F4 PROPAGATION — Bulletin hebdomadaire automatisé
+Semaine du lundi 31 août 2026 au dimanche 6 septembre 2026
+Données NOAA/SWPC : 27-Day Outlook, émission 2026 Sep 03 1312 UTC.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RÉSUMÉ EXPRESS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Le flux solaire F10.7 est prévu entre 95 et 110 sfu. 20 m est prioritaire ; 17 m reste à tester et 15 m peut s’ouvrir ponctuellement.
+Le Kp maximal prévu est 3 et l’indice Ap varie de 5 à 12. Surveillance renforcée : aucune journée fortement perturbée dans l’outlook.
+
+À retenir :
+• F10.7 : 95 à 110 sfu ;
+• Ap : 5 à 12 ; Kp maximal : 3 ;
+• bandes conseillées : 20 m, 17 m, 15 m ponctuel ;
+• les indices donnent une tendance : écouter les balises et vérifier Kp réel avant une activité importante.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INDICATEURS OFFICIELS NOAA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+31 août 2026 : F10.7 110 | Ap 12 | Kp max 3
+1 septembre 2026 : F10.7 105 | Ap 5 | Kp max 2
+2 septembre 2026 : F10.7 105 | Ap 5 | Kp max 2
+3 septembre 2026 : F10.7 100 | Ap 5 | Kp max 2
+4 septembre 2026 : F10.7 100 | Ap 5 | Kp max 2
+5 septembre 2026 : F10.7 95 | Ap 5 | Kp max 2
+6 septembre 2026 : F10.7 95 | Ap 5 | Kp max 2
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONSÉQUENCES RADIO PROBABLES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• 80 m : soirée et nuit, selon le bruit local.
+• 40 m : valeur sûre en soirée et bande de repli si l’activité géomagnétique augmente.
+• 20 m : bande principale de jour et base DX.
+• 17 m et 15 m : à tester selon le niveau de flux solaire et les balises.
+• 10 m : opportunités ponctuelles ; une valeur NOAA ne garantit pas une ouverture locale.
+• VHF/UHF : ces indicateurs HF ne remplacent pas la météo locale ni les prévisions tropo.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+JOUR PAR JOUR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Lundi 31 — 🟡 Variable
+NOAA : F10.7 110, Ap 12, Kp max 3.
+
+Mardi 1 — 🟢 Plutôt calme
+NOAA : F10.7 105, Ap 5, Kp max 2.
+
+Mercredi 2 — 🟢 Plutôt calme
+NOAA : F10.7 105, Ap 5, Kp max 2.
+
+Jeudi 3 — 🟢 Plutôt calme
+NOAA : F10.7 100, Ap 5, Kp max 2.
+
+Vendredi 4 — 🟢 Plutôt calme
+NOAA : F10.7 100, Ap 5, Kp max 2.
+
+Samedi 5 — 🟢 Plutôt calme
+NOAA : F10.7 95, Ap 5, Kp max 2.
+
+Dimanche 6 — 🟢 Plutôt calme
+NOAA : F10.7 95, Ap 5, Kp max 2.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SOURCES ET LIMITES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• NOAA/SWPC — 27-Day Space Weather Outlook
+  https://services.swpc.noaa.gov/text/27-day-outlook.txt
+
+Bulletin généré par règles déterministes sur JB-server. Les prévisions évoluent ; vérifier les mesures en temps réel avant une activité importante.
+
+73 à tous et bon trafic sur les bandes 📻
