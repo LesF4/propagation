@@ -1,0 +1,66 @@
+📡 LES F4 PROPAGATION — du 7 au 13 septembre 2026
+
+Une semaine en deux temps : mardi et mercredi seront les journées à surveiller avec un risque de perturbation géomagnétique lié à plusieurs CME et à l’influence du trou coronal CH179. À partir de jeudi, les conditions devraient redevenir nettement plus calmes.
+
+☀️ INDICES CLÉS
+
+F10.7 / SFI : environ 102 à 108 sfu sur la semaine.
+Ap : 16 lundi, jusqu’à 30 mardi, puis retour vers 5 en fin de semaine.
+Kp : jusqu’à 4 lundi ; Kp 5 / niveau G1 probable mardi, encore possible ponctuellement mercredi ; retour vers Kp 2 de jeudi à dimanche.
+X-Ray : activité surtout de classe C ; une éruption M reste possible.
+R1-R2 : risque estimé autour de 15 % sur le début de semaine ; R3 ou plus très peu probable.
+
+☁️ CME ET TROU CORONAL
+
+Une CME dirigée vers la Terre, associée à l’activité solaire du 6 septembre, peut perturber le champ magnétique terrestre mardi et mercredi. En parallèle, le trou coronal équatorial CH179 alimente un vent solaire rapide.
+
+Une CME est une éjection de plasma et de champ magnétique depuis le Soleil. Lorsqu’elle atteint la Terre, elle peut faire monter le Kp et rendre la propagation HF plus irrégulière.
+
+Un trou coronal est une région de la couronne solaire où le vent solaire s’échappe plus rapidement. Son flux peut lui aussi augmenter l’activité géomagnétique.
+
+📻 BANDES HF
+
+80 m : bonne bande du soir et de la nuit, utile pour le trafic régional et comme bande de repli en période agitée.
+
+40 m : la valeur sûre de la semaine, particulièrement mardi et mercredi si les bandes hautes deviennent instables.
+
+20 m : probablement la meilleure bande polyvalente. Bon potentiel DX, avec davantage de fading possible pendant la phase perturbée.
+
+17 m : à tester dès que Kp redescend, notamment en deuxième partie de semaine.
+
+15 m : ouvertures possibles mais irrégulières avec un SFI autour de 105. À essayer lorsque 17 m fonctionne correctement.
+
+10 m : bande opportuniste. Surveiller balises, FT8 et spots avant de conclure qu’elle est fermée.
+
+📡 VHF / UHF
+
+Le passage géomagnétique de mardi-mercredi peut rendre l’Aurora VHF intéressante à surveiller pour les stations européennes bien placées, sans garantie d’ouverture exploitable depuis la France.
+
+Pour le trafic VHF/UHF classique, les ouvertures tropo dépendront surtout de la météo terrestre et des inversions de température.
+
+🏕️ POTA / SOTA
+
+Le créneau le plus confortable devrait se situer de jeudi à dimanche avec un retour attendu vers Ap 5 / Kp 2.
+
+Base recommandée : 40 m + 20 m.
+Tester systématiquement 17 m, puis 15 m lorsque les signaux sont bons.
+Mardi et mercredi restent intéressants pour observer l’effet réel des perturbations, mais il faudra être prêt à descendre rapidement en fréquence.
+
+🎯 RÉSUMÉ
+
+☀️ SFI : 102–108
+🧲 Mardi : Ap ~30 / Kp 5 → G1 probable
+⚠️ Mercredi : nouveaux créneaux G1 possibles
+🌩️ G2 : petite possibilité si l’impact des CME est plus fort que prévu
+☁️ CME : impacts possibles des événements des 5–6 septembre
+💨 Trou coronal : CH179 actif
+💥 R1–R2 : risque modéré en début de semaine
+📻 Valeurs sûres : 40 / 20 m
+🚀 À tester après accalmie : 17 / 15 m
+🏕️ POTA/SOTA : jeudi à dimanche particulièrement intéressants
+
+👉 Une semaine en deux temps : mardi-mercredi à surveiller avec une propagation potentiellement mouvementée, puis un retour au calme assez net à partir de jeudi. Gardez 40/20 m comme base et profitez de la deuxième moitié de semaine pour remonter progressivement vers 17 et 15 m.
+
+Sources officielles : NOAA/SWPC, SIDC/RWC Belgium, Met Office Space Weather, ESA Space Weather.
+
+F4MAJ pour Les F4
