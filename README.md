@@ -6,7 +6,7 @@
 
 L'animation présente les prévisions de la semaine et traduit les indicateurs techniques en conseils simples pour les radioamateurs.
 
-### [📄 Lire ou télécharger le bulletin texte de la semaine](https://github.com/LesF4/propagation/raw/refs/heads/main/LES-F4-PROPAGATION-2026-09-07-au-2026-09-13.txt)
+### [📄 Lire ou télécharger le bulletin texte de la semaine](https://github.com/LesF4/propagation/raw/refs/heads/main/LES-F4-PROPAGATION-2026-09-14-au-2026-09-20.txt)
 
 Édition en cours : **7 au 13 septembre 2026**.
 

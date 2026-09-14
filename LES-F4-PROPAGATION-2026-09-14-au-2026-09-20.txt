@@ -1,6 +1,6 @@
 📡 LES F4 PROPAGATION — Bulletin hebdomadaire automatisé
-Semaine du lundi 7 septembre 2026 au dimanche 13 septembre 2026
-Données NOAA/SWPC : 27-Day Outlook, émission 2026 Sep 07 0224 UTC.
+Semaine du lundi 14 septembre 2026 au dimanche 20 septembre 2026
+Données NOAA/SWPC : 27-Day Outlook, émission 2026 Sep 14 0117 UTC.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 RÉSUMÉ EXPRESS
@@ -10,12 +10,12 @@ La semaine pourrait être perturbée, avec des dégradations possibles et des ch
 Le vingt mètres est prioritaire, tandis que le dix-sept mètres reste à tester selon les ouvertures.
 Les prévisions restent indicatives et doivent être confirmées par les balises et les conditions réellement observées.
 
-Le flux solaire F10.7 est prévu entre 102 et 108 sfu. 20 m est prioritaire ; 17 m reste à tester et 15 m peut s’ouvrir ponctuellement.
-Le Kp maximal prévu est 5 et l’indice Ap varie de 5 à 30. Surveillance renforcée : lundi 7, mardi 8.
+Le flux solaire F10.7 est prévu entre 90 et 105 sfu. 20 m est prioritaire ; 17 m reste à tester et 15 m peut s’ouvrir ponctuellement.
+Le Kp maximal prévu est 5 et l’indice Ap varie de 5 à 20. Surveillance renforcée : lundi 14, mardi 15, mercredi 16, jeudi 17.
 
 À retenir :
-• F10.7 : 102 à 108 sfu ;
-• Ap : 5 à 30 ; Kp maximal : 5 ;
+• F10.7 : 90 à 105 sfu ;
+• Ap : 5 à 20 ; Kp maximal : 5 ;
 • bandes conseillées : 20 m, 17 m, 15 m ponctuel ;
 • les indices donnent une tendance : écouter les balises et vérifier Kp réel avant une activité importante.
 
@@ -23,13 +23,13 @@ Le Kp maximal prévu est 5 et l’indice Ap varie de 5 à 30. Surveillance renfo
 INDICATEURS OFFICIELS NOAA
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-7 septembre 2026 : F10.7 108 | Ap 16 | Kp max 4
-8 septembre 2026 : F10.7 108 | Ap 30 | Kp max 5
-9 septembre 2026 : F10.7 107 | Ap 9 | Kp max 3
-10 septembre 2026 : F10.7 105 | Ap 5 | Kp max 2
-11 septembre 2026 : F10.7 108 | Ap 5 | Kp max 2
-12 septembre 2026 : F10.7 105 | Ap 5 | Kp max 2
-13 septembre 2026 : F10.7 102 | Ap 5 | Kp max 2
+14 septembre 2026 : F10.7 105 | Ap 18 | Kp max 4
+15 septembre 2026 : F10.7 100 | Ap 16 | Kp max 4
+16 septembre 2026 : F10.7 95 | Ap 20 | Kp max 5
+17 septembre 2026 : F10.7 93 | Ap 18 | Kp max 5
+18 septembre 2026 : F10.7 90 | Ap 10 | Kp max 3
+19 septembre 2026 : F10.7 90 | Ap 5 | Kp max 2
+20 septembre 2026 : F10.7 95 | Ap 5 | Kp max 2
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CONSÉQUENCES RADIO PROBABLES
@@ -46,26 +46,26 @@ CONSÉQUENCES RADIO PROBABLES
 JOUR PAR JOUR
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Lundi 7 — 🟠 Actif
-NOAA : F10.7 108, Ap 16, Kp max 4.
+Lundi 14 — 🟠 Actif
+NOAA : F10.7 105, Ap 18, Kp max 4.
 
-Mardi 8 — 🔴 Perturbé
-NOAA : F10.7 108, Ap 30, Kp max 5.
+Mardi 15 — 🟠 Actif
+NOAA : F10.7 100, Ap 16, Kp max 4.
 
-Mercredi 9 — 🟡 Variable
-NOAA : F10.7 107, Ap 9, Kp max 3.
+Mercredi 16 — 🔴 Perturbé
+NOAA : F10.7 95, Ap 20, Kp max 5.
 
-Jeudi 10 — 🟢 Plutôt calme
-NOAA : F10.7 105, Ap 5, Kp max 2.
+Jeudi 17 — 🔴 Perturbé
+NOAA : F10.7 93, Ap 18, Kp max 5.
 
-Vendredi 11 — 🟢 Plutôt calme
-NOAA : F10.7 108, Ap 5, Kp max 2.
+Vendredi 18 — 🟡 Variable
+NOAA : F10.7 90, Ap 10, Kp max 3.
 
-Samedi 12 — 🟢 Plutôt calme
-NOAA : F10.7 105, Ap 5, Kp max 2.
+Samedi 19 — 🟢 Plutôt calme
+NOAA : F10.7 90, Ap 5, Kp max 2.
 
-Dimanche 13 — 🟢 Plutôt calme
-NOAA : F10.7 102, Ap 5, Kp max 2.
+Dimanche 20 — 🟢 Plutôt calme
+NOAA : F10.7 95, Ap 5, Kp max 2.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SOURCES ET LIMITES
