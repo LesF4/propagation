@@ -1,24 +1,221 @@
 <!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>LES F4 PROPAGATION — 14 au 20 septembre 2026</title>
 <style>
 :root{--bg:#030a13;--panel:#0b2235;--text:#f0f8ff;--muted:#9db5c7;--cyan:#39d9ff;--green:#62e99a;--orange:#ffb652;--red:#ff687b}*{box-sizing:border-box}body{margin:0;background:#01050a;color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif;overflow:hidden}.film{height:100vh;position:relative;background:radial-gradient(circle at 60% 45%,#12354b 0,transparent 42%),linear-gradient(135deg,#030b14,#071b2c 58%,#020912);overflow:hidden}.aurora{position:absolute;width:75vw;height:75vw;border-radius:50%;filter:blur(100px);opacity:.16;animation:orbit 25s linear infinite}.a1{background:conic-gradient(var(--cyan),#555dff,var(--green),var(--cyan));left:-25vw;top:-35vw}.a2{background:conic-gradient(var(--orange),#c04cff,var(--cyan),var(--orange));right:-28vw;bottom:-42vw;animation-direction:reverse;animation-duration:31s}.grid{position:absolute;inset:-10%;background-image:linear-gradient(#65cfff12 1px,transparent 1px),linear-gradient(90deg,#65cfff12 1px,transparent 1px);background-size:54px 54px;transform:perspective(700px) rotateX(62deg) translateY(35%);animation:gridMove 12s linear infinite}.orbit{position:absolute;right:7vw;top:12vh;width:min(32vw,480px);aspect-ratio:1;border:1px solid #39d9ff2c;border-radius:50%;animation:spin 24s linear infinite}.orbit:before,.orbit:after{content:"";position:absolute;border-radius:50%}.orbit:before{width:18px;height:18px;background:var(--cyan);box-shadow:0 0 30px var(--cyan);top:9%;left:16%}.orbit:after{inset:18%;border:1px dashed #62e99a40;animation:spin 11s linear infinite reverse}.sun{position:absolute;right:calc(7vw + min(8vw,120px));top:calc(12vh + min(8vw,120px));width:min(16vw,240px);aspect-ratio:1;border-radius:50%;background:radial-gradient(circle at 35% 35%,#fff3a2,#ffc13f 30%,#ff7439 67%,#a9244b);box-shadow:0 0 45px #ff9e4866,0 0 140px #ff6a2933;animation:sunPulse 4s ease-in-out infinite}.shell{position:absolute;inset:0;display:grid;grid-template-rows:66px 1fr 74px}.top{display:flex;align-items:center;padding:0 4vw;border-bottom:1px solid #ffffff13;background:#04101bca;backdrop-filter:blur(14px)}.brand{font-weight:950;letter-spacing:.1em}.brand em{font-style:normal;color:var(--cyan)}.date{margin-left:20px;color:var(--muted);font-size:14px}.clock{margin-left:auto;color:var(--cyan);font-weight:800}.main{position:relative;padding:5vh 5vw 3vh;display:flex;align-items:center}.content{position:relative;width:min(69vw,1080px);min-height:62vh;padding:4vh 3.2vw;border-radius:32px;background:linear-gradient(135deg,#0a2134e8,#071725cb);border:1px solid #ffffff1c;box-shadow:0 40px 120px #0008,inset 0 0 70px #39d9ff08;backdrop-filter:blur(16px);overflow:hidden}.chapter{color:var(--cyan);text-transform:uppercase;letter-spacing:.19em;font-size:13px;font-weight:900;margin-bottom:15px}.copy.change{animation:morph .7s ease}h1{font-size:clamp(36px,4.2vw,68px);line-height:1.03;margin:0 0 18px;max-width:930px}p{font-size:clamp(16px,1.45vw,23px);line-height:1.45;color:#dceaf3;margin:7px 0}.sub{color:var(--muted);font-size:clamp(14px,1.05vw,18px)}.explain{margin-top:20px;padding:15px 18px;border-left:4px solid var(--cyan);border-radius:12px;background:#39d9ff10;color:#e6f7ff;font-size:clamp(14px,1.05vw,18px);line-height:1.4}.chips{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.chip{padding:9px 13px;border-radius:999px;background:#ffffff0c;border:1px solid #ffffff18;color:#dcecf6;font-weight:750}.chip.good{border-color:#62e99a55;background:#62e99a12}.chip.warn{border-color:#ffb65255;background:#ffb65212}.chip.bad{border-color:#ff687b55;background:#ff687b12}.viz{position:absolute;right:4vw;bottom:12vh;width:min(27vw,390px);padding:18px;border-radius:24px;background:#081a29cf;border:1px solid #ffffff16;box-shadow:0 24px 80px #0007;backdrop-filter:blur(12px)}.vizTitle{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:10px}.metric{font-size:36px;font-weight:950;color:var(--cyan)}.metricLabel{color:var(--muted)}.signal{height:58px;display:flex;align-items:center;gap:5px}.signal i{display:block;width:5px;border-radius:8px;background:linear-gradient(to top,var(--cyan),var(--green));height:var(--h);animation:bars 1.4s ease-in-out infinite alternate;animation-delay:var(--d)}.ticker{position:absolute;left:0;right:0;bottom:74px;height:36px;border-top:1px solid #ffffff12;border-bottom:1px solid #ffffff12;background:#04101bdc;overflow:hidden;display:flex;align-items:center}.tickerTrack{white-space:nowrap;color:#bdd3e2;font-size:14px;animation:ticker 38s linear infinite}.tickerTrack b{color:var(--cyan);margin:0 12px}.bottom{display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:22px;padding:0 4vw;background:#030d17e8}.controls{display:flex;gap:8px}button{border:1px solid #ffffff20;background:#0e2b42;color:white;border-radius:12px;padding:9px 14px;font-weight:800;cursor:pointer}.track{height:5px;background:#ffffff13;border-radius:10px;overflow:hidden}.bar{height:100%;width:0;background:linear-gradient(90deg,var(--cyan),var(--green),var(--orange));transition:width .5s}.count{color:var(--muted)}@keyframes morph{from{opacity:.15;filter:blur(10px);transform:translateY(10px)}to{opacity:1;filter:none;transform:none}}@keyframes orbit{to{transform:rotate(360deg) translate(4vw) rotate(-360deg)}}@keyframes spin{to{transform:rotate(360deg)}}@keyframes gridMove{to{background-position:54px 54px}}@keyframes sunPulse{50%{transform:scale(1.035);filter:hue-rotate(8deg)}}@keyframes bars{to{height:calc(var(--h)*.45);filter:hue-rotate(55deg)}}@keyframes ticker{to{transform:translateX(-50%)}}@media(max-width:900px){.date{display:none}.content{width:100%;min-height:66vh}.sun,.orbit{opacity:.14}.viz{display:none}.main{padding:3vh 4vw}.content{padding:3vh 5vw}}@media(prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;animation-iteration-count:1!important}}
-</style></head><body><div class="film"><div class="aurora a1"></div><div class="aurora a2"></div><div class="grid"></div><div class="orbit"></div><div class="sun"></div><div class="shell"><header class="top"><div class="brand">📡 LES <em>F4</em> PROPAGATION</div><div class="date">14 — 20 septembre 2026 · mise à jour 15/09 · F4MAJ</div><div class="clock" id="chapterNum"></div></header><main class="main"><section class="content"><div class="chapter" id="chapter"></div><div class="copy" id="copy"></div></section><aside class="viz"><div class="vizTitle">Lecture radio pratique</div><div class="metric" id="metric">20 m</div><div class="metricLabel" id="metricLabel">Bande principale de jour</div><div class="signal" id="signal"></div></aside></main><div class="ticker"><div class="tickerTrack"><b>15–17 SEP</b> période sensible · <b>16 SEP</b> G1 probable, G2 possible · <b>20 m</b> priorité de jour · <b>40 m</b> bande de repli · <b>SOURCES</b> NOAA + SIDC + Met Office + ASWFC · <b>15–17 SEP</b> période sensible · <b>16 SEP</b> G1 probable, G2 possible · <b>20 m</b> priorité de jour · <b>40 m</b> bande de repli ·</div></div><footer class="bottom"><div class="controls"><button id="prev">←</button><button id="play">Pause</button><button id="next">→</button></div><div class="track"><div class="bar" id="bar"></div></div><div class="count" id="count"></div></footer></div></div>
+a{color:var(--cyan);text-underline-offset:3px}button:focus-visible,a:focus-visible{outline:3px solid var(--orange);outline-offset:3px}.content{width:64vw;min-height:0;max-height:calc(100dvh - 220px);overflow-y:auto}.viz{width:23vw}.film{height:100dvh}.copy h1{font-size:clamp(28px,3.4vw,54px)}.copy p{font-size:clamp(16px,1.3vw,21px)}.sub a{font-size:14px}.main{padding-bottom:52px}@media(max-width:900px){.content{width:100%;max-height:calc(100dvh - 220px)}.brand{font-size:14px}.clock{font-size:11px}.bottom{gap:10px}.count{font-size:12px}}@media(max-height:600px){.main{padding-top:10px}.content{padding:16px;max-height:calc(100dvh - 190px)}.explain{margin-top:10px;padding:10px}.chips{margin-top:8px}}body.paused *{animation-play-state:paused!important}body.paused .copy.change{animation:none!important;opacity:1;filter:none;transform:none}</style></head><body><div class="film"><div class="aurora a1"></div><div class="aurora a2"></div><div class="grid"></div><div class="orbit"></div><div class="sun"></div><div class="shell"><header class="top"><div class="brand">📡 LES <em>F4</em> PROPAGATION</div><div class="date">14 — 20 septembre 2026 · reconstruit le 15/09 à 13:12 UTC · F4MAJ</div><div class="clock" id="chapterNum"></div></header><main class="main"><section class="content"><div class="chapter" id="chapter"></div><div class="copy" id="copy"></div></section><aside class="viz"><div class="vizTitle">Lecture radio pratique</div><div class="metric" id="metric">20 m</div><div class="metricLabel" id="metricLabel">Bande principale de jour</div><div class="signal" id="signal"></div></aside></main><div class="ticker"><div class="tickerTrack"><b>15–17 SEP</b> période sensible · <b>16 SEP</b> G1 probable, G2 possible · <b>20 m</b> à essayer de jour · <b>40 m</b> bande de repli · <b>SOURCES</b> NOAA + SIDC + Met Office + ASWFC · <b>15–17 SEP</b> période sensible · <b>16 SEP</b> G1 probable, G2 possible · <b>20 m</b> à essayer de jour · <b>40 m</b> bande de repli ·</div></div><footer class="bottom"><div class="controls"><button id="prev" aria-label="Chapitre précédent">←</button><button id="play">Pause</button><button id="next" aria-label="Chapitre suivant">→</button></div><div class="track"><div class="bar" id="bar"></div></div><div class="count" id="count"></div></footer></div></div>
 <script>
 const beats=[
-{c:"Ouverture",t:"Propagation du 14 au 20 septembre",p:"Bulletin recoupé et corrigé le 15 septembre 2026.",s:"NOAA/SWPC · SIDC · Met Office · Australian Space Weather Forecasting Centre",x:"La semaine n’est pas uniformément mauvaise : la période la plus sensible va de mardi à jeudi.",chips:["F4MAJ pour Les F4","HF · VHF/UHF","POTA / SOTA"],m:"14 → 20",ml:"Septembre 2026"},
-{c:"Résumé express",t:"Mardi à jeudi : <span style='color:var(--orange)'>vigilance</span>",p:"Trous coronaux + possibles impacts rasants de CME peuvent rendre la propagation plus irrégulière.",x:"Mercredi 16 est la journée à surveiller en priorité. Vendredi puis le week-end devraient être plus calmes si aucun nouvel événement solaire ne survient.",chips:["15 : variable / actif","16 : le plus sensible","17 : encore instable"],m:"15–17",ml:"Fenêtre sensible"},
-{c:"Sources",t:"Quatre sources recoupées",p:"NOAA, SIDC, Met Office et ASWFC ne donnent pas exactement la même intensité.",x:"Une divergence entre sources n’est pas une erreur à cacher : elle indique l’incertitude réelle de la prévision.",chips:["NOAA/SWPC","SIDC/RWC Belgium","Met Office","ASWFC"],m:"4",ml:"Sources croisées"},
-{c:"Activité solaire",t:"Soleil plutôt calme côté éruptions",p:"Le SIDC attend surtout des éruptions de classe C. Le risque de blackout radio important reste faible.",x:"Le problème principal de la semaine vient davantage du vent solaire, des trous coronaux et des CME que d’une forte activité de flare.",chips:["R1–R2 NOAA : 5 %","S1 NOAA : 1 %"],m:"C-class",ml:"Activité solaire"},
-{c:"CME & trous coronaux",t:"Deux effets peuvent se combiner",p:"Le Met Office surveille des impacts rasants de CME autour du 16 septembre, en plus des flux rapides de trous coronaux.",x:"La géométrie exacte d’une CME reste incertaine avant son arrivée : l’intensité réelle peut donc différer sensiblement de la prévision.",chips:["CH HSS","CME rasantes","16 septembre"],m:"CME + CH",ml:"Facteurs géomagnétiques"},
-{c:"F10.7",t:"Autour de 100–112 sfu à court terme",p:"Le SIDC prévoit 112 puis 110 sfu les 15 et 16 septembre, tandis que l’outlook NOAA est plus bas.",x:"Pour la radio, retenez surtout une activité solaire moyenne : 20 m est la base, 17 m se teste, 15 m reste possible et 10 m opportuniste.",chips:["20 m prioritaire","17 m à tester","15 m possible"],m:"100–112",ml:"sfu · sources divergentes"},
-{c:"Mardi 15",t:"🟠 Variable à actif",p:"Le Met Office garde une chance de G1 et une faible possibilité de G2 selon l’effet combiné du vent solaire et des CME.",x:"Commencez sur 20 m ; si la bande devient instable, 40 m est la solution de repli.",chips:["20 m","40 m en repli","Kp à vérifier"],m:"🟠",ml:"Mardi"},
-{c:"Mercredi 16",t:"🔴 Journée la plus sensible",p:"G1 est probable selon le Met Office ; G2 est possible et une faible chance de G3 subsiste.",x:"Attendez-vous à du fading et à des changements rapides de MUF, surtout sur les trajets polaires et hautes latitudes.",chips:["G1 probable","G2 possible","G3 faible chance"],m:"🔴",ml:"Mercredi"},
-{c:"Jeudi 17",t:"🟠 Encore instable",p:"Effets résiduels de vent solaire rapide et de CME possibles. G1 reste possible, G2 isolé n’est pas exclu.",x:"20 m puis 40 m restent les choix les plus rationnels ; ne comptez sur 17/15 m qu’après écoute des balises.",chips:["G1 possible","20 m","40 m"],m:"🟠",ml:"Jeudi"},
-{c:"Vendredi 18",t:"🟡 Amélioration attendue",p:"Le Met Office prévoit un retour progressif vers des conditions plus calmes lorsque le vent solaire rapide faiblira.",x:"Les bandes hautes peuvent redevenir plus régulières, mais la confiance diminue avec l’échéance.",chips:["Retour au calme","Tester 17 m","Surveiller Kp"],m:"🟡",ml:"Vendredi"},
-{c:"Week-end",t:"🟢 Tendance plus calme",p:"L’outlook NOAA est plus favorable pour samedi 19 et dimanche 20, sous réserve d’un nouvel événement solaire.",x:"Bon créneau potentiel pour POTA/SOTA, avec vérification des indices réels juste avant le départ.",chips:["Samedi : plutôt calme","Dimanche : plutôt calme","Confiance moyenne"],m:"🟢",ml:"19–20 septembre"},
-{c:"Bandes HF",t:"20 m d’abord, 40 m en sécurité",p:"80 m la nuit · 40 m robuste · 20 m base DX · 17/15 m à tester · 10 m opportuniste.",x:"Un F10.7 correct ne garantit jamais une ouverture locale : balises, spots et écoute réelle restent prioritaires.",chips:["80 m nuit","40 m refuge","20 m DX","17/15 m test","10 m opportuniste"],m:"20 / 40",ml:"Couple principal"},
-{c:"Portable",t:"POTA / SOTA : prévoir un plan B",p:"Entre mardi et jeudi, partez avec 20 m comme premier choix et 40 m comme repli immédiat.",x:"Mercredi, anticipez davantage de fading et de changements rapides. Pour le week-end, la tendance est meilleure.",chips:["Vérifier Kp","Écouter les balises","Prévoir 40 m"],m:"POTA",ml:"Conseil portable"},
-{c:"VHF / UHF",t:"Ne pas confondre HF et tropo",p:"Kp, Ap et F10.7 ne remplacent pas une prévision tropo locale.",x:"Une activité géomagnétique forte peut favoriser des phénomènes auroraux surtout aux hautes latitudes, sans garantir une ouverture utile en France.",chips:["Tropo ≠ Kp","Auroral possible","Pas de garantie"],m:"VHF/UHF",ml:"Lecture séparée"},
-{c:"Conclusion",t:"Observer, tester, s’adapter",p:"Mardi à jeudi demandent de la souplesse ; vendredi et le week-end devraient être plus favorables.",s:"Prévisions recoupées · toujours confirmer avec les conditions réelles",x:"73 à tous et bon trafic sur les bandes — F4MAJ pour Les F4",chips:["20 m priorité","40 m repli","Balises + Kp réel"],m:"73",ml:"Bon trafic"}
+  {
+    "c": "Ouverture",
+    "t": "14 au 20 septembre 2026",
+    "p": "Reconstruction exceptionnelle du 15 septembre · données à 13:12 UTC / 15:12 Paris.",
+    "x": "Cette édition remplace intégralement celle du 14 septembre. F4MAJ pour Les F4.",
+    "m": "14 → 20",
+    "ml": "Septembre 2026",
+    "chips": [
+      "Flux vidéo V2",
+      "HF · portable · VHF"
+    ],
+    "s": ""
+  },
+  {
+    "c": "Résumé",
+    "t": "15–17 : vigilance",
+    "p": "Le 16 est la journée la plus sensible : G1 probable, G2 possible, faible risque G3 selon le Met Office.",
+    "x": "20 m à essayer de jour, 40 m en repli. Les ouvertures dépendent aussi du trajet et de l’heure.",
+    "m": "20 / 40 m",
+    "ml": "À tester",
+    "chips": [
+      "18 : amélioration",
+      "19–20 : confiance faible"
+    ],
+    "s": ""
+  },
+  {
+    "c": "Sources",
+    "t": "Quatre centres recoupés",
+    "p": "NOAA et SIDC : 15/09 à 12:30 UTC. Met Office : 15/09 à 12:13 UTC. ASWFC : 14/09 à 23:30 UTC.",
+    "x": "Les prévisions à trois jours s’arrêtent au 17 ; le week-end repose sur un outlook NOAA plus ancien.",
+    "m": "4 sources",
+    "ml": "Dates vérifiées",
+    "chips": [],
+    "s": "<a href=\"https://services.swpc.noaa.gov/text/3-day-forecast.txt\" target=\"_blank\" rel=\"noopener\">NOAA / SWPC</a> · <a href=\"https://www.sidc.be/products/tot/\" target=\"_blank\" rel=\"noopener\">SIDC / RWC Belgium</a> · <a href=\"https://weather.metoffice.gov.uk/specialist-forecasts/space-weather\" target=\"_blank\" rel=\"noopener\">Met Office</a> · <a href=\"https://www.sws.bom.gov.au/Space_Weather/1/1\" target=\"_blank\" rel=\"noopener\">ASWFC</a>"
+  },
+  {
+    "c": "F10.7",
+    "t": "104 sfu observés le 14",
+    "p": "Prévisions des 15/16/17 : SIDC 104/102/100 ; ASWFC 105/100/95 sfu.",
+    "x": "Le flux indique l’ionisation, pas une ouverture assurée. NOAA outlook du 14 : 100/95/93 sfu, produit plus ancien.",
+    "m": "104 sfu",
+    "ml": "Mesure du 14 septembre",
+    "chips": [
+      "Prévision ≠ mesure",
+      "20 m à essayer"
+    ],
+    "s": ""
+  },
+  {
+    "c": "Éruptions & protons",
+    "t": "Activité éruptive faible",
+    "p": "NOAA, 15/16/17 : R1–R2 10/10/10 % ; R3+ 1/1/1 % ; S1+ 20/10/1 %.",
+    "x": "Un blackout peut affecter la HF côté jour ; les protons concernent surtout les routes polaires. Ces chiffres sont des probabilités.",
+    "m": "R1–R2 : 10 %",
+    "ml": "Prévision quotidienne 15–17",
+    "chips": [
+      "SIDC : éruptions C attendues"
+    ],
+    "s": ""
+  },
+  {
+    "c": "Écarts entre sources",
+    "t": "Bilan proton non unanime",
+    "p": "NOAA et SIDC décrivent un niveau sous S1 ; Met Office signale un dépassement antérieur terminé le 15 à 04:05 UTC.",
+    "x": "Cet écart n’est pas résolu par les textes consultés. Consulter les conditions actuelles avant un trajet polaire.",
+    "m": "S1",
+    "ml": "Bilan divergent",
+    "chips": [
+      "Écart conservé",
+      "Pas de faux consensus"
+    ],
+    "s": ""
+  },
+  {
+    "c": "CME & vent solaire",
+    "t": "Arrivée encore incertaine",
+    "p": "SIDC : environ 815 km/s vers 11:30 UTC le 15, possible ICME anticipée. Met Office privilégie le flux rapide.",
+    "x": "Bz encore positif au point SIDC : la vitesse seule ne prouve pas une tempête. Des CME rasantes restent possibles le 16.",
+    "m": "815 km/s",
+    "ml": "Observation SIDC vers 11:30 UTC",
+    "chips": [
+      "CH HSS + CME",
+      "ASWFC : impact le 16, vers 19 UTC"
+    ],
+    "s": ""
+  },
+  {
+    "c": "Rétrospective",
+    "t": "Lundi 14 — rétrospective",
+    "p": "F10.7 observé : 104 sfu. ASWFC décrit une journée sans tempête planétaire (G0). Ne pas confondre ce bilan avec les dernières 24 heures glissantes : NOAA/SIDC rapportent Kp jusqu’à 4 dans leurs bulletins du 15.",
+    "x": "Ap du 14 : SIDC estime 16, ASWFC 13. Les bilans utilisent des fenêtres et indices distincts.",
+    "m": "14/09",
+    "ml": "Bilan ou prévision proche",
+    "chips": [],
+    "s": ""
+  },
+  {
+    "c": "Mardi",
+    "t": "🟠 Mardi 15 — actif, G1 probable selon NOAA",
+    "p": "Le Met Office donne une possibilité de G1 et un faible risque G2. SIDC signale une accélération du vent solaire vers 815 km/s à 11:30 UTC, avec Bz encore positif : cela ne prouve pas qu’une tempête est déjà en cours.",
+    "x": "Écouter 20 m et garder 40 m disponible. Les trajets polaires sont plus exposés au fading.",
+    "m": "15/09",
+    "ml": "Bilan ou prévision proche",
+    "chips": [],
+    "s": ""
+  },
+  {
+    "c": "Mercredi",
+    "t": "🔴 Mercredi 16 — journée la plus sensible",
+    "p": "NOAA et ASWFC prévoient G1 ; ASWFC envisage G2. Met Office : G1 probable, G2 possible, faible risque G3. SIDC prévoit Ap 39. Les effets des flux rapides et des CME peuvent se combiner.",
+    "x": "Écouter 20 m et garder 40 m disponible. Les trajets polaires sont plus exposés au fading.",
+    "m": "16/09",
+    "ml": "Bilan ou prévision proche",
+    "chips": [],
+    "s": ""
+  },
+  {
+    "c": "Jeudi",
+    "t": "🟠 Jeudi 17 — perturbations résiduelles possibles",
+    "p": "NOAA laisse une possibilité de G1 malgré un tableau Kp maximal à 3,67. Met Office : G1 possible, faible risque G2 isolé ; ASWFC : G0–G1. Les trajets à haute latitude restent plus exposés.",
+    "x": "Écouter 20 m et garder 40 m disponible. Les trajets polaires sont plus exposés au fading.",
+    "m": "17/09",
+    "ml": "Bilan ou prévision proche",
+    "chips": [],
+    "s": ""
+  },
+  {
+    "c": "Vendredi",
+    "t": "🟡 Vendredi 18 — amélioration attendue",
+    "p": "Le Met Office prévoit un retour vers Kp 0–3. C’est le quatrième jour de sa prévision ; NOAA à trois jours s’arrête au 17.",
+    "x": "Recontrôler avant le trafic : une nouvelle perturbation peut modifier cette tendance.",
+    "m": "18/09",
+    "ml": "Échéance plus incertaine",
+    "chips": [],
+    "s": ""
+  },
+  {
+    "c": "Samedi",
+    "t": "🟢 Samedi 19 — tendance plus calme, confiance faible",
+    "p": "Outlook NOAA du 14 : Ap 5, Kp maximal 2. Ce sont des valeurs de planification, pas des mesures ni une prévision détaillée actualisée à trois jours.",
+    "x": "Recontrôler avant le trafic : une nouvelle perturbation peut modifier cette tendance.",
+    "m": "19/09",
+    "ml": "Échéance plus incertaine",
+    "chips": [],
+    "s": ""
+  },
+  {
+    "c": "Dimanche",
+    "t": "🟢 Dimanche 20 — tendance plus calme, confiance faible",
+    "p": "Même outlook NOAA : Ap 5, Kp maximal 2. À recontrôler avant le trafic ; un nouvel événement peut changer cette tendance.",
+    "x": "Recontrôler avant le trafic : une nouvelle perturbation peut modifier cette tendance.",
+    "m": "20/09",
+    "ml": "Échéance plus incertaine",
+    "chips": [],
+    "s": ""
+  },
+  {
+    "c": "Lire les indices",
+    "t": "Kp, Ap et G : repères",
+    "p": "Kp : activité sur trois heures. Ap : indice quotidien. G1/G2/G3 : niveaux de tempête géomagnétique.",
+    "x": "Une baisse de fréquence maximale utilisable et du fading sont possibles ; changer de bande après écoute, sans automatisme.",
+    "m": "Kp / Ap",
+    "ml": "Deux échelles de temps",
+    "chips": [
+      "Couleurs = vigilance éditoriale"
+    ],
+    "s": ""
+  },
+  {
+    "c": "Bandes HF",
+    "t": "Choisir selon l’écoute",
+    "p": "80 m soir/nuit · 40 m repli · 20 m premier essai de jour · 17/15 m à tester · 10 m opportuniste.",
+    "x": "Conseils pour la France métropolitaine, à adapter au trajet et à l’antenne. 40 m n’est pas protégée des perturbations.",
+    "m": "20 / 40 m",
+    "ml": "Aucune ouverture garantie",
+    "chips": [],
+    "s": ""
+  },
+  {
+    "c": "POTA / SOTA",
+    "t": "Prévoir une autre bande",
+    "p": "Les 15–17, surtout le 16 : vérifier indices actuels, balises, spots récents et écoute réelle avant le départ.",
+    "x": "Emporter de quoi utiliser 20 m et 40 m. Le week-end est une possibilité à confirmer, pas un créneau assuré.",
+    "m": "Portable",
+    "ml": "Souplesse avant tout",
+    "chips": [],
+    "s": ""
+  },
+  {
+    "c": "VHF / UHF",
+    "t": "Tropo : vérifier la météo",
+    "p": "Kp et F10.7 ne prédisent pas les ouvertures troposphériques.",
+    "x": "Le trafic auroral peut devenir possible aux latitudes favorables ; aucune ouverture en France n’est garantie.",
+    "m": "VHF/UHF",
+    "ml": "Aucune ouverture annoncée",
+    "chips": [],
+    "s": ""
+  },
+  {
+    "c": "Conclusion",
+    "t": "Observer, tester, s’adapter",
+    "p": "15–17 septembre : vigilance, surtout le 16. G1 probable les 15–16 selon NOAA ; G2 possible le 16 et faible risque G3 selon le Met Office. Amélioration attendue le 18 ; tendance plus calme les 19–20, à faible confiance.",
+    "x": "73 à tous et bon trafic sur les bandes — F4MAJ pour Les F4",
+    "m": "73",
+    "ml": "Bon trafic",
+    "chips": [
+      "20 m à essayer",
+      "40 m en repli"
+    ],
+    "s": "<a href=\"LES-F4-PROPAGATION-2026-09-14-au-2026-09-20.txt\">Lire le bulletin texte complet et les sources</a>"
+  }
 ];
-const chapter=document.querySelector('#chapter'),copy=document.querySelector('#copy'),metric=document.querySelector('#metric'),metricLabel=document.querySelector('#metricLabel'),count=document.querySelector('#count'),bar=document.querySelector('#bar'),chapterNum=document.querySelector('#chapterNum'),signal=document.querySelector('#signal'),play=document.querySelector('#play');let i=0,timer,playing=true;for(let k=0;k<28;k++){const b=document.createElement('i');b.style.setProperty('--h',`${15+Math.random()*40}px`);b.style.setProperty('--d',`${-Math.random()*1.4}s`);signal.appendChild(b)}function render(n){i=(n+beats.length)%beats.length;const b=beats[i];copy.classList.remove('change');void copy.offsetWidth;chapter.textContent=b.c;copy.innerHTML=`<h1>${b.t}</h1><p>${b.p}</p>${b.s?`<p class="sub">${b.s}</p>`:''}<div class="chips">${b.chips.map(x=>`<span class="chip">${x}</span>`).join('')}</div><div class="explain">📻 ${b.x}</div>`;copy.classList.add('change');metric.textContent=b.m;metricLabel.textContent=b.ml;count.textContent=`${i+1} / ${beats.length}`;chapterNum.textContent=`CHAPITRE ${String(i+1).padStart(2,'0')}`;bar.style.width=`${i/(beats.length-1)*100}%`;clearTimeout(timer);if(playing)timer=setTimeout(()=>render(i+1),7000)}document.querySelector('#prev').onclick=()=>render(i-1);document.querySelector('#next').onclick=()=>render(i+1);play.onclick=()=>{playing=!playing;play.textContent=playing?'Pause':'Lecture';render(i)};document.addEventListener('keydown',e=>{if(e.key==='ArrowRight')render(i+1);if(e.key==='ArrowLeft')render(i-1);if(e.key===' '){e.preventDefault();play.click()}});render(0);
+const chapter=document.querySelector('#chapter'),copy=document.querySelector('#copy'),metric=document.querySelector('#metric'),metricLabel=document.querySelector('#metricLabel'),count=document.querySelector('#count'),bar=document.querySelector('#bar'),chapterNum=document.querySelector('#chapterNum'),signal=document.querySelector('#signal'),play=document.querySelector('#play');let i=0,timer,playing=!matchMedia('(prefers-reduced-motion: reduce)').matches;for(let k=0;k<28;k++){const b=document.createElement('i');b.style.setProperty('--h',`${15+Math.random()*40}px`);b.style.setProperty('--d',`${-Math.random()*1.4}s`);signal.appendChild(b)}function render(n){i=(n+beats.length)%beats.length;const b=beats[i];copy.classList.remove('change');void copy.offsetWidth;chapter.textContent=b.c;copy.innerHTML=`<h1>${b.t}</h1><p>${b.p}</p>${b.s?`<p class="sub">${b.s}</p>`:''}<div class="chips">${b.chips.map(x=>`<span class="chip">${x}</span>`).join('')}</div><div class="explain">📻 Concrètement pour nous : ${b.x}</div>`;copy.classList.add('change');metric.textContent=b.m;metricLabel.textContent=b.ml;count.textContent=`${i+1} / ${beats.length}`;chapterNum.textContent=`CHAPITRE ${String(i+1).padStart(2,'0')}`;bar.style.width=`${i/(beats.length-1)*100}%`;clearTimeout(timer);if(playing)timer=setTimeout(()=>render(i+1),15000)}document.querySelector('#prev').onclick=()=>render(i-1);document.querySelector('#next').onclick=()=>render(i+1);play.onclick=()=>{playing=!playing;document.body.classList.toggle('paused',!playing);play.textContent=playing?'Pause':'Lecture';render(i)};document.addEventListener('keydown',e=>{if(e.key==='ArrowRight')render(i+1);if(e.key==='ArrowLeft')render(i-1);if(e.key===' '){e.preventDefault();play.click()}});play.textContent=playing?'Pause':'Lecture';document.body.classList.toggle('paused',!playing);render(0);
 </script></body></html>

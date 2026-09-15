@@ -1,27 +1,38 @@
 # 📡 LES F4 PROPAGATION
 
-## Bulletin hebdomadaire pour les radioamateurs
+## Édition active : 14 au 20 septembre 2026
 
-### [▶ Ouvrir le bulletin animé et pédagogique](https://lesf4.github.io/propagation/)
+Reconstruction exceptionnelle du mardi 15 septembre 2026 — données recoupées à 13:12 UTC (15:12 à Paris).
 
-L’animation présente les prévisions de la semaine, explique les indicateurs utiles aux radioamateurs et traduit les données de space weather en conseils pratiques.
+Cette édition remplace intégralement la publication invalide du lundi 14 septembre.
 
-### [📄 Lire ou télécharger le bulletin texte de la semaine](https://github.com/LesF4/propagation/raw/refs/heads/main/LES-F4-PROPAGATION-2026-09-14-au-2026-09-20.txt)
+[▶ Bulletin animé — Flux vidéo V2](https://lesf4.github.io/propagation/) · [📄 Bulletin texte](https://lesf4.github.io/propagation/LES-F4-PROPAGATION-2026-09-14-au-2026-09-20.txt)
 
-Édition en cours : **14 au 20 septembre 2026**.  
-Mise à jour et recoupement : **15 septembre 2026**.
+## Tendance
 
-### Tendance de la semaine
+15–17 septembre : vigilance, surtout le 16. G1 probable les 15–16 selon NOAA ; G2 possible le 16 et faible risque G3 selon le Met Office. Amélioration attendue le 18 ; tendance plus calme les 19–20, à faible confiance.
 
-La période la plus sensible se situe entre **mardi 15 et jeudi 17 septembre**. Le Met Office prévoit un risque de G1 mardi, un **G1 probable mercredi 16 avec G2 possible**, puis encore un risque G1 jeudi. Deux impacts rasants de CME peuvent s’ajouter aux effets de trous coronaux.
+F10.7 observé le 14 : 104 sfu (SIDC et ASWFC). Prévisions SIDC des 15/16/17 : 104/102/100 sfu ; ASWFC : 105/100/95 sfu.
 
-Côté radio, **20 m** reste la bande principale de jour et **40 m** la meilleure bande de repli. **17 m et 15 m** sont à tester selon les ouvertures ; **10 m** reste opportuniste. Une amélioration est attendue à partir de vendredi, avec une tendance plus calme pour le week-end si aucun nouvel événement solaire ne survient.
+20 m à essayer de jour ; 40 m en repli selon le trajet et l’heure. 17/15 m à tester, 10 m opportuniste. Aucune ouverture garantie.
 
-Les informations sont recoupées auprès de **NOAA/SWPC, SIDC/RWC Belgium, Met Office Space Weather et Australian Space Weather Forecasting Centre**. Lorsque les sources divergent, cette divergence est conservée et expliquée au lieu d’être masquée.
+## Recoupement
 
----
+NOAA/SWPC et SIDC : 15 septembre, 12:30 UTC ; Met Office : 15 septembre, 12:13 UTC ; ASWFC : 14 septembre, 23:30 UTC. Le SIDC a bien été relu dans son édition du 15.
 
-Une seule édition hebdomadaire est conservée comme édition active dans le dépôt. Le bulletin texte et le bulletin animé doivent toujours correspondre à la même semaine avant partage sur Discord, X ou YouTube.
+Les centres divergent sur l’arrivée et l’intensité des CME et sur le bilan passé des protons. Le bulletin explique ces écarts. Le 18 relève de la prévision Met Office à quatre jours ; les 19–20 reposent sur l’outlook NOAA du 14, à faible confiance.
 
-73 à tous et bon trafic sur les bandes 📻  
+- [NOAA / SWPC — 15 septembre 2026, 12:30 UTC](https://services.swpc.noaa.gov/text/3-day-forecast.txt)
+- [SIDC / RWC Belgium — URSIGRAM 60915, 15 septembre 2026, 12:30 UTC](https://www.sidc.be/products/tot/)
+- [SIDC — alerte Presto du 15 septembre, événement vers 11:30 UTC](https://www.sidc.be/)
+- [Met Office — 15 septembre 2026, 12:13 UTC](https://weather.metoffice.gov.uk/specialist-forecasts/space-weather)
+- [ASWFC — 14 septembre 2026, 23:30 UTC ; prévisions des 15–17](https://www.sws.bom.gov.au/Space_Weather/1/1)
+- [NOAA — outlook publié le 14 septembre 2026, 01:17 UTC ; tendance lointaine](https://services.swpc.noaa.gov/text/27-day-outlook.txt)
+
+## Publication
+
+Une seule édition et un seul [fichier de messages](MESSAGE-A-PUBLIER-2026-09-14.txt) actifs. Ce fichier contient, dans l’ordre, DISCORD, X / TWITTER et YOUTUBE LES F4. X et YouTube sont préparés pour JB.
+
+À partir du lundi 21 septembre : chaîne normale selon [STANDARD-PUBLICATION.md](STANDARD-PUBLICATION.md), une génération, une publication GitHub puis une publication Discord après contrôle de Pages. Aucune nouvelle remise à zéro exceptionnelle.
+
 **F4MAJ pour Les F4**
