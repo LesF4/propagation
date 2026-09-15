@@ -1,0 +1,70 @@
+DISCORD
+
+📡 PROPAGATION LES F4 — DU 14 AU 20 SEPTEMBRE 2026
+
+Le bulletin de cette semaine a été entièrement repris et recoupé avec plusieurs sources officielles.
+
+☀️ Flux solaire : les prévisions de court terme se situent autour de 100 à 112 sfu selon les sources. Le 20 m reste la bande principale de jour ; 17 m et 15 m sont à tester selon les ouvertures.
+
+🟠 Mardi 15 : conditions variables à actives.
+🔴 Mercredi 16 : journée la plus sensible — G1 probable, G2 possible selon le Met Office, avec une faible chance d’un épisode plus fort si les effets de CME et de trous coronaux se combinent.
+🟠 Jeudi 17 : encore instable.
+🟡 Vendredi 18 : amélioration attendue.
+🟢 Week-end : tendance plus calme si aucun nouvel événement solaire ne survient.
+
+📻 Conseil pratique : 20 m en priorité de jour, 40 m comme bande de repli. En portable POTA/SOTA, vérifiez Kp réel, balises et spots juste avant le départ.
+
+Les données ont été recoupées auprès de NOAA/SWPC, du SIDC/RWC Belgium, du Met Office Space Weather et de l’Australian Space Weather Forecasting Centre.
+
+▶️ Bulletin animé :
+https://lesf4.github.io/propagation/
+
+📄 Bulletin texte complet :
+https://github.com/LesF4/propagation/raw/refs/heads/main/LES-F4-PROPAGATION-2026-09-14-au-2026-09-20.txt
+
+73 à tous et bon trafic sur les bandes 📻 — F4MAJ
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+X / TWITTER — MESSAGE À COPIER
+
+📡 Propagation HF — 14 au 20 septembre 2026
+
+🟠 15/09 : variable à actif
+🔴 16/09 : G1 probable, G2 possible
+🟠 17/09 : encore instable
+🟢 amélioration attendue ensuite
+
+📻 20 m en priorité, 40 m en repli. 17/15 m à tester.
+
+Bulletin animé ▶️ https://lesf4.github.io/propagation/
+
+#Radioamateur #HamRadio #Propagation #HF #POTA #SOTA
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+YOUTUBE LES F4
+
+TITRE
+Propagation radioamateur HF — Prévisions du 14 au 20 septembre 2026 | Les F4
+
+DESCRIPTION
+📡 Bulletin propagation Les F4 — semaine du 14 au 20 septembre 2026.
+
+Cette semaine, la période la plus sensible se situe entre mardi 15 et jeudi 17 septembre. Mercredi 16 est la journée à surveiller en priorité : G1 est probable selon le Met Office et G2 reste possible si les effets des CME et des trous coronaux se combinent.
+
+Conseils radio :
+• 20 m : bande principale de jour ;
+• 40 m : bande de repli ;
+• 17 m et 15 m : à tester selon les ouvertures ;
+• 10 m : opportuniste ;
+• POTA/SOTA : vérifier Kp, balises et spots avant le départ.
+
+Sources recoupées : NOAA/SWPC, SIDC/RWC Belgium, Met Office Space Weather et Australian Space Weather Forecasting Centre.
+
+▶️ Bulletin animé : https://lesf4.github.io/propagation/
+📄 Bulletin texte : https://github.com/LesF4/propagation/raw/refs/heads/main/LES-F4-PROPAGATION-2026-09-14-au-2026-09-20.txt
+
+73 à tous et bon trafic sur les bandes 📻
+F4MAJ pour Les F4
+
+HASHTAGS
+#Radioamateur #HamRadio #Propagation #HF #POTA #SOTA #LesF4
