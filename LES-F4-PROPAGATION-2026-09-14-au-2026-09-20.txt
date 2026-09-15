@@ -1,79 +1,152 @@
-📡 LES F4 PROPAGATION — Bulletin hebdomadaire automatisé
+📡 LES F4 PROPAGATION — Bulletin hebdomadaire
 Semaine du lundi 14 septembre 2026 au dimanche 20 septembre 2026
-Données NOAA/SWPC : 27-Day Outlook, émission 2026 Sep 14 0117 UTC.
+Mise à jour et recoupement : mardi 15 septembre 2026
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 RÉSUMÉ EXPRESS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-La semaine pourrait être perturbée, avec des dégradations possibles et des changements rapides de propagation.
-Le vingt mètres est prioritaire, tandis que le dix-sept mètres reste à tester selon les ouvertures.
-Les prévisions restent indicatives et doivent être confirmées par les balises et les conditions réellement observées.
+La semaine n’est pas uniformément mauvaise, mais la période du mardi 15 au jeudi 17 septembre demande de la vigilance.
+Le principal facteur est la combinaison de flux rapides issus de trous coronaux et de possibles arrivées rasantes de CME.
 
-Le flux solaire F10.7 est prévu entre 90 et 105 sfu. 20 m est prioritaire ; 17 m reste à tester et 15 m peut s’ouvrir ponctuellement.
-Le Kp maximal prévu est 5 et l’indice Ap varie de 5 à 20. Surveillance renforcée : lundi 14, mardi 15, mercredi 16, jeudi 17.
+• Mardi 15 : conditions variables à actives, avec possibilité d’épisodes G1.
+• Mercredi 16 : journée la plus sensible, G1 probable ; G2 possible selon l’impact réel des CME, et un épisode G3 reste peu probable mais n’est pas totalement exclu selon le Met Office.
+• Jeudi 17 : encore instable, avec risque G1 résiduel et possible G2 isolé.
+• Vendredi 18 : amélioration attendue.
+• Week-end 19–20 : tendance plus calme si aucun nouvel événement solaire ne survient.
 
-À retenir :
-• F10.7 : 90 à 105 sfu ;
-• Ap : 5 à 20 ; Kp maximal : 5 ;
-• bandes conseillées : 20 m, 17 m, 15 m ponctuel ;
-• les indices donnent une tendance : écouter les balises et vérifier Kp réel avant une activité importante.
+Pour le trafic radio : 20 m reste la bande de jour à privilégier ; 40 m est la bande de repli la plus sûre en cas de dégradation. 17 m et 15 m sont à tester selon les ouvertures. Le 10 m reste opportuniste.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-INDICATEURS OFFICIELS NOAA
+SOURCES RECOUPÉES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-14 septembre 2026 : F10.7 105 | Ap 18 | Kp max 4
-15 septembre 2026 : F10.7 100 | Ap 16 | Kp max 4
-16 septembre 2026 : F10.7 95 | Ap 20 | Kp max 5
-17 septembre 2026 : F10.7 93 | Ap 18 | Kp max 5
-18 septembre 2026 : F10.7 90 | Ap 10 | Kp max 3
-19 septembre 2026 : F10.7 90 | Ap 5 | Kp max 2
-20 septembre 2026 : F10.7 95 | Ap 5 | Kp max 2
+1) NOAA / SWPC — prévision à 3 jours, émise le 14 septembre à 12:30 UTC
+• Kp maximal prévu sur 14–16 septembre : 4,67, soit seuil G1.
+• Risque de blackout radio R1–R2 : 5 % par jour sur 14–16 septembre.
+• Risque de tempête de radiation S1 ou plus : 1 % par jour.
+• Le risque G1 augmente le 16 septembre sous l’effet d’un flux rapide de trou coronal.
+
+2) SIDC / RWC Belgium — bulletin du 14 septembre à 12:30 UTC
+• F10.7 prévu : 114 sfu le 14, 112 sfu le 15, 110 sfu le 16.
+• Ap prévu : 7, 7, puis 16.
+• Activité solaire faible, avec principalement de petites éruptions de classe C attendues.
+• Le SIDC était initialement plus calme sur le géomagnétisme que NOAA ; cette divergence doit être conservée dans l’analyse et non masquée.
+
+3) Met Office Space Weather — bulletin du 15 septembre
+• Mardi 15 : chance de G1, faible chance de G2.
+• Mercredi 16 : G1 probable, G2 possible, faible chance de G3.
+• Jeudi 17 : risque G1 persistant, faible chance de G2 isolé.
+• Deux impacts rasants de CME sont possibles le 16 septembre, en plus des effets de trous coronaux.
+
+4) Australian Space Weather Forecasting Centre — tendance HF du 15 septembre
+• 15 septembre : HF globalement normal à normal-dégradé aux latitudes moyennes.
+• 16 septembre : propagation HF pouvant devenir « fair » à « fair-poor » selon la latitude.
+• 17 septembre : amélioration progressive, mais conditions encore irrégulières possibles.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CONSÉQUENCES RADIO PROBABLES
+ACTIVITÉ SOLAIRE ET FLUX F10.7
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-• 80 m : soirée et nuit, selon le bruit local.
-• 40 m : valeur sûre en soirée et bande de repli si l’activité géomagnétique augmente.
-• 20 m : bande principale de jour et base DX.
-• 17 m et 15 m : à tester selon le niveau de flux solaire et les balises.
-• 10 m : opportunités ponctuelles ; une valeur NOAA ne garantit pas une ouverture locale.
-• VHF/UHF : ces indicateurs HF ne remplacent pas la météo locale ni les prévisions tropo.
+Le flux solaire se situe autour de 100–112 sfu selon les différentes prévisions de court terme. Les sources officielles divergent sensiblement sur la valeur exacte : NOAA donne une tendance plus basse dans son outlook de planification, alors que le SIDC prévoit encore 112 puis 110 sfu pour les 15 et 16 septembre.
+
+Cette différence n’empêche pas la lecture radio pratique :
+• 20 m : bon choix de base de jour ;
+• 17 m : à tester régulièrement ;
+• 15 m : ouvertures possibles mais moins régulières ;
+• 10 m : ouvertures ponctuelles seulement, à confirmer par balises et clusters.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-JOUR PAR JOUR
+GÉOMAGNÉTISME — JOUR PAR JOUR
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Lundi 14 — 🟠 Actif
-NOAA : F10.7 105, Ap 18, Kp max 4.
+Lundi 14 — rétrospective
+Conditions encore globalement modérées, avec montée progressive des effets de vent solaire.
 
-Mardi 15 — 🟠 Actif
-NOAA : F10.7 100, Ap 16, Kp max 4.
+Mardi 15 — 🟠 VARIABLE / ACTIF
+Des épisodes actifs sont possibles. Le Met Office laisse une chance de G1, avec une faible possibilité de G2 si un impact de CME se combine au flux rapide.
+Conseil radio : privilégier 20 m en journée et garder 40 m en repli.
 
-Mercredi 16 — 🔴 Perturbé
-NOAA : F10.7 95, Ap 20, Kp max 5.
+Mercredi 16 — 🔴 JOURNÉE À SURVEILLER
+C’est la journée la plus sensible de la semaine. G1 est probable ; G2 est possible et le Met Office garde une faible chance de G3 si les impacts rasants de CME s’additionnent aux flux rapides.
+Conseil radio : attendez-vous à du fading, à des changements rapides de MUF et à une dégradation plus marquée sur les trajets polaires et hautes latitudes.
 
-Jeudi 17 — 🔴 Perturbé
-NOAA : F10.7 93, Ap 18, Kp max 5.
+Jeudi 17 — 🟠 ENCORE INSTABLE
+Effets résiduels de vent solaire rapide et de CME possibles. G1 reste possible, avec une faible chance de G2 isolé.
+Conseil radio : tester 20 m puis 40 m ; 17 m et 15 m seulement si les balises confirment.
 
-Vendredi 18 — 🟡 Variable
-NOAA : F10.7 90, Ap 10, Kp max 3.
+Vendredi 18 — 🟡 AMÉLIORATION ATTENDUE
+Le vent solaire rapide devrait commencer à faiblir. Retour progressif vers des conditions plus régulières.
 
-Samedi 19 — 🟢 Plutôt calme
-NOAA : F10.7 90, Ap 5, Kp max 2.
+Samedi 19 — 🟢 PLUTÔT CALME
+Tendance calme dans l’outlook NOAA, sous réserve de l’absence de nouvel événement solaire.
 
-Dimanche 20 — 🟢 Plutôt calme
-NOAA : F10.7 95, Ap 5, Kp max 2.
+Dimanche 20 — 🟢 PLUTÔT CALME
+Même tendance générale que samedi, avec une confiance plus faible car l’échéance est plus lointaine.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SOURCES ET LIMITES
+BANDES HF — CONSEILS PRATIQUES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-• NOAA/SWPC — 27-Day Space Weather Outlook
-  https://services.swpc.noaa.gov/text/27-day-outlook.txt
+• 80 m : surtout soirée et nuit ; surveiller le bruit local.
+• 40 m : la valeur refuge de la semaine, particulièrement si l’activité géomagnétique augmente.
+• 20 m : bande principale pour le DX de jour ; peut devenir irrégulière mercredi et jeudi.
+• 17 m : à tester dès que 20 m est bien ouverte.
+• 15 m : possibilités ponctuelles, surtout en journée.
+• 10 m : opportuniste ; ne pas déduire une ouverture uniquement du F10.7.
 
-Synthèse de secours produite localement par des règles déterministes sur JB-server. Les prévisions évoluent ; vérifier les mesures en temps réel avant une activité importante.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+POTA / SOTA / PORTABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Pour une activation entre mardi et jeudi :
+• commencer sur 20 m si la bande est ouverte ;
+• prévoir immédiatement 40 m comme solution de repli ;
+• tester 17 m / 15 m avant de compter dessus ;
+• vérifier Kp réel, balises et spots juste avant le départ ;
+• mercredi 16, prévoir davantage de fading et de changements rapides.
+
+Pour le week-end, la tendance est plus favorable, mais une vérification en temps réel reste indispensable.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VHF / UHF
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Les indices Kp, Ap et F10.7 décrivent surtout l’environnement ionosphérique et géomagnétique. Ils ne remplacent pas une prévision tropo locale.
+En cas de tempête géomagnétique, des phénomènes auroraux peuvent devenir intéressants surtout aux latitudes élevées, mais ils ne doivent pas être présentés comme une garantie pour la France.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+À RETENIR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🟠 Mardi 15 : variable / actif.
+🔴 Mercredi 16 : journée la plus perturbée à surveiller.
+🟠 Jeudi 17 : encore instable.
+🟡 Vendredi 18 : amélioration attendue.
+🟢 Week-end : tendance plus calme.
+
+40 m = bande de repli.
+20 m = bande principale de jour.
+17 m / 15 m = à tester.
+10 m = opportuniste.
+
+Les prévisions sont des tendances et non une garantie d’ouverture. Toujours confirmer par les balises, les spots, l’écoute réelle et les indices du moment.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SOURCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NOAA / SWPC — Space Weather Prediction Center
+https://www.swpc.noaa.gov/
+
+SIDC / RWC Belgium
+https://www.sidc.be/products/tot/
+
+Met Office — Space Weather
+https://weather.metoffice.gov.uk/specialist-forecasts/space-weather
+
+Australian Space Weather Forecasting Centre
+https://sws.bom.gov.au/HF_Systems/6/1/1
 
 73 à tous et bon trafic sur les bandes 📻
+F4MAJ pour Les F4
