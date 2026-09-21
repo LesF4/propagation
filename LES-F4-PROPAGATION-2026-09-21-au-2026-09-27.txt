@@ -1,0 +1,101 @@
+📡 LES F4 PROPAGATION — Bulletin hebdomadaire
+Semaine du lundi 21 septembre 2026 au dimanche 27 septembre 2026
+Données NOAA/SWPC : 27-Day Outlook, émission 2026 Sep 21 0317 UTC.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RÉSUMÉ EXPRESS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+La semaine pourrait être perturbée, avec des dégradations possibles et des changements rapides de propagation.
+Le vingt mètres est prioritaire, tandis que le dix-sept mètres reste à tester selon les ouvertures.
+Les prévisions restent indicatives et doivent être confirmées par les balises et les conditions réellement observées.
+
+Le flux solaire F10.7 est prévu entre 100 et 105 sfu. 20 m est prioritaire ; 17 m reste à tester et 15 m peut s’ouvrir ponctuellement.
+Le Kp maximal prévu est 5 et l’indice Ap varie de 5 à 20. Surveillance renforcée : jeudi 24, vendredi 25.
+
+À retenir :
+• F10.7 : 100 à 105 sfu ;
+• Ap : 5 à 20 ; Kp maximal : 5 ;
+• bandes conseillées : 20 m, 17 m, 15 m ponctuel ;
+• les indices donnent une tendance : écouter les balises et vérifier Kp réel avant une activité importante.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SOURCES RECOUPÉES ET DIVERGENCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• NOAA/SWPC — prévision à 3 jours — disponible — édition : 2026 Sep 21 1230 UTC
+  No G1 (Minor) or greater geomagnetic storms are expected. No significant transient or recurrent solar wind features are forecast. Probabilités protons : S1 or greater 1% 1% 1%
+  https://services.swpc.noaa.gov/text/3-day-forecast.txt
+
+• SIDC/RWC Belgium — disponible — édition : 2026 Sep 21 1230 UTC
+  Solar flaring activity was low over the past 24 hours, with only C-class flares identified. A total of 7 numbered sunspot groups were identified on the disk over the past 24 hours. SIDC Sunspot Group 964 (NOAA Active Region 4534) and SIDC Sunspot Group 966 (NOAA Active Region 4536) have emerged near the center of the visible solar disk. SIDC Sunspot Group 964 is the most magnetically complex region (Beta) on disk and has produced most of the flaring activity in the last 24 hours. The largest flare was a C3.7 flare (SIDC Flare 8588) peaking on September 20 at 22:34 UTC, which was produced by SIDC Sunspot Group 964 (NOAA Active Region 4534). Solar flaring activity is… Prévisions F10.7/Ap : 21 Sep 2026  10CM FLUX: 108 / AP: 008 ; 22 Sep 2026  10CM FLUX: 112 / AP: 010 ; 23 Sep 2026  10CM FLUX: 116 / AP: 010.
+  https://www.sidc.be/products/tot/
+
+• Met Office Space Weather — disponible — édition : 01:25 (GMT) on Mon 21 Sep 2026
+  Generally quiet Space Weather conditions initially, then Chance of G1/Minor Geomagnetic Storming on Days 3 and 4.
+  https://weather.metoffice.gov.uk/specialist-forecasts/space-weather
+
+• Australian Space Weather Forecasting Centre — disponible — édition : 20 Sep 2026 23:30 UT)
+  Géomagnétisme : Date Ap Conditions 21 Sep 4 G0 22 Sep 7 G0 23 Sep 18 G0, chance of G1 COMMENT: Geomagnetic conditions in the Australian region were at the G0 level over 20-Sep, with G0 conditions also recorded at the planetary scale. Mostly G0 conditions were reported in the Antarctic region, with some G1-G2 intervals observed at Mawson. G0 conditions are forecast over 21-23 Sep, with a chance of G1 on 23-Sep due to high speed wind stream effects of an equatorial coronal hole. ----------------------------------------------------------- HF : Latitude Band Date Low Middle High 21 Sep Normal Normal Normal 22 Sep Normal Normal Normal-fair 23 Sep Normal-fair Normal-fair Normal-fair COMMENT: Global high-frequency (HF) radio propagation conditions on 20-Sep were mostly normal, with some normal-fair conditions observed in high-latitude northern hemisphere regions at the beginning of the UT day. Some mild degradations were also observed at mid-latitude…
+  https://www.sws.bom.gov.au/Space_Weather/1/1
+
+Les produits n'ont ni le même horaire, ni la même échéance, ni la même méthode. Les écarts sont conservés ; le tableau NOAA à 27 jours sert uniquement de tendance pour les jours non couverts par les prévisions opérationnelles courtes.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INDICATEURS OFFICIELS NOAA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+21 septembre 2026 : F10.7 105 | Ap 5 | Kp max 2
+22 septembre 2026 : F10.7 105 | Ap 5 | Kp max 2
+23 septembre 2026 : F10.7 100 | Ap 5 | Kp max 2
+24 septembre 2026 : F10.7 100 | Ap 20 | Kp max 4
+25 septembre 2026 : F10.7 105 | Ap 18 | Kp max 5
+26 septembre 2026 : F10.7 105 | Ap 12 | Kp max 3
+27 septembre 2026 : F10.7 100 | Ap 8 | Kp max 3
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONSÉQUENCES RADIO PROBABLES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• 80 m : soirée et nuit, selon le bruit local.
+• 40 m : valeur sûre en soirée et bande de repli si l’activité géomagnétique augmente.
+• 20 m : bande principale de jour et base DX.
+• 17 m et 15 m : à tester selon le niveau de flux solaire et les balises.
+• 10 m : opportunités ponctuelles ; une valeur NOAA ne garantit pas une ouverture locale.
+• VHF/UHF : ces indicateurs HF ne remplacent pas la météo locale ni les prévisions tropo.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+JOUR PAR JOUR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Lundi 21 — 🟢 Plutôt calme
+NOAA : F10.7 105, Ap 5, Kp max 2.
+
+Mardi 22 — 🟢 Plutôt calme
+NOAA : F10.7 105, Ap 5, Kp max 2.
+
+Mercredi 23 — 🟢 Plutôt calme
+NOAA : F10.7 100, Ap 5, Kp max 2.
+
+Jeudi 24 — 🟠 Actif
+NOAA : F10.7 100, Ap 20, Kp max 4.
+
+Vendredi 25 — 🔴 Perturbé
+NOAA : F10.7 105, Ap 18, Kp max 5.
+
+Samedi 26 — 🟡 Variable
+NOAA : F10.7 105, Ap 12, Kp max 3.
+
+Dimanche 27 — 🟡 Variable
+NOAA : F10.7 100, Ap 8, Kp max 3.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SOURCES ET LIMITES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• NOAA/SWPC — 27-Day Space Weather Outlook (tendance de planification)
+  https://services.swpc.noaa.gov/text/27-day-outlook.txt
+
+Synthèse produite par des règles déterministes sur JB-SERVER, sans lancer de calcul JB-AI. Les prévisions évoluent ; vérifier les mesures en temps réel avant une activité importante.
+
+73 à tous et bon trafic sur les bandes 📻
