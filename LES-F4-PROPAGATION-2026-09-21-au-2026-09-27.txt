@@ -90,6 +90,32 @@ Dimanche 27 — 🟡 Variable
 NOAA : F10.7 100, Ap 8, Kp max 3.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+REPÈRES TERRAIN — OBSERVATIONS ET PLANIFICATION
+
+CE QUI A ÉTÉ REÇU
+2026-09-22 13:59:18 UTC
+40 m : 7297 paires · 20 m : 11427 paires · 17 m : 2263 paires · 15 m : 1980 paires · 10 m : 415 paires
+Réseau WSPR, fenêtre de 3 h ; une station au moins dans la zone 42–51,5°N / 5,2°O–8,3°E (France et alentours). Paires émetteur/récepteur distinctes par bande, données déclaratives.
+https://wspr.live/
+
+CONFIRMER VOTRE TRAJET
+Avant de trafiquer
+Sur PSKReporter, choisir votre locator, la bande, le mode et une fenêtre récente. Comparer plusieurs stations proches et les deux sens du trajet.
+Une réception numérique ne prouve ni un QSO aller-retour ni une ouverture SSB. Sans spots, vérifier aussi les balises et écouter la bande.
+https://pskreporter.info/pskmap.html
+
+PRÉPARER AVEC VOACAP
+Planification du trajet
+Comparer les bandes et les heures UTC pour un trajet précis : par exemple Paris–New York ou Paris–Tokyo, avec votre puissance, vos antennes et votre mode.
+VOACAP décrit une probabilité mensuelle, pas la météo d’un jour. Aucun calcul VOACAP chiffré n’est inclus ici ; confronter la planification aux alertes officielles et aux réceptions récentes.
+https://www.voacap.com/
+
+EN PORTABLE : ÉCOUTER D’ABORD
+POTA / SOTA
+POTA / SOTA : tester une bande avec des réceptions récentes sur le trajet recherché, puis adapter la fréquence et l’horaire au bruit et aux correspondants.
+Les spots WSPR à faible signal ne garantissent pas un contact QRP en phonie. Garder une bande de repli et vérifier le Kp réel avant de partir.
+Conseil pratique Les F4
+
 SOURCES ET LIMITES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
