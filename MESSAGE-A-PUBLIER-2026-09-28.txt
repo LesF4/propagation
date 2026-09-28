@@ -1,12 +1,12 @@
 DISCORD
 
-📡 PROPAGATION LES F4 — DU 21 SEPTEMBRE 2026 AU 27 SEPTEMBRE 2026
+📡 PROPAGATION LES F4 — DU 28 SEPTEMBRE 2026 AU 4 OCTOBRE 2026
 
 Le bulletin hebdomadaire a été produit sur JB-SERVER à partir de sources opérationnelles recoupées.
 
-☀️ F10.7 prévu entre 100 et 105 sfu selon NOAA : Le vingt mètres est prioritaire, tandis que le dix-sept mètres reste à tester selon les ouvertures.
+☀️ F10.7 prévu entre 90 et 105 sfu selon NOAA : Le vingt mètres est prioritaire, tandis que le dix-sept mètres reste à tester selon les ouvertures.
 
-🔴 Conditions : La semaine pourrait être perturbée, avec des dégradations possibles et des changements rapides de propagation.
+🟠 Conditions : La semaine pourrait être active, avec une propagation parfois irrégulière et des bandes hautes plus fragiles.
 ⚠️ Les prévisions restent indicatives et doivent être confirmées par les balises et les conditions réellement observées.
 
 🗓️ Chaque indicateur est accompagné d’une explication simple et de conseils pratiques.
@@ -15,7 +15,7 @@ Le bulletin hebdomadaire a été produit sur JB-SERVER à partir de sources opé
 https://lesf4.github.io/propagation/
 
 📄 Bulletin texte :
-https://lesf4.github.io/propagation/LES-F4-PROPAGATION-2026-09-21-au-2026-09-27.txt
+https://lesf4.github.io/propagation/LES-F4-PROPAGATION-2026-09-28-au-2026-10-04.txt
 
 Sources recoupées : NOAA/SWPC, SIDC/RWC Belgium, Met Office Space Weather, Australian Space Weather Forecasting Centre.
 
@@ -24,10 +24,10 @@ Sources recoupées : NOAA/SWPC, SIDC/RWC Belgium, Met Office Space Weather, Aust
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 X / TWITTER
 
-📡 Propagation HF · 21 septembre–27 septembre 2026
+📡 Propagation HF · 28 septembre–4 octobre 2026
 
-La semaine pourrait être perturbée, avec des dégradations possibles et des changements rapides de propagation.
-📻 F10.7 NOAA : 100–105 sfu. 20 m à tester, 40 m en repli.
+La semaine pourrait être active, avec une propagation parfois irrégulière et des bandes hautes plus fragiles.
+📻 F10.7 NOAA : 90–105 sfu. 20 m à tester, 40 m en repli.
 
 ▶️ https://lesf4.github.io/propagation/
 
@@ -37,18 +37,18 @@ La semaine pourrait être perturbée, avec des dégradations possibles et des ch
 YOUTUBE LES F4
 
 TITRE
-Propagation HF — 21 septembre 2026 au 27 septembre 2026 | Les F4
+Propagation HF — 28 septembre 2026 au 4 octobre 2026 | Les F4
 
 DESCRIPTION
-📡 Bulletin propagation Les F4 — semaine du 21 septembre 2026 au 27 septembre 2026.
+📡 Bulletin propagation Les F4 — semaine du 28 septembre 2026 au 4 octobre 2026.
 
-La semaine pourrait être perturbée, avec des dégradations possibles et des changements rapides de propagation.
+La semaine pourrait être active, avec une propagation parfois irrégulière et des bandes hautes plus fragiles.
 Le vingt mètres est prioritaire, tandis que le dix-sept mètres reste à tester selon les ouvertures.
 Les prévisions restent indicatives et doivent être confirmées par les balises et les conditions réellement observées.
 
 Sources recoupées : NOAA/SWPC — prévision à 3 jours, SIDC/RWC Belgium, Met Office Space Weather, Australian Space Weather Forecasting Centre.
 ▶️ Bulletin animé : https://lesf4.github.io/propagation/
-📄 Bulletin texte : https://lesf4.github.io/propagation/LES-F4-PROPAGATION-2026-09-21-au-2026-09-27.txt
+📄 Bulletin texte : https://lesf4.github.io/propagation/LES-F4-PROPAGATION-2026-09-28-au-2026-10-04.txt
 
 F4MAJ pour Les F4
 #Radioamateur #HamRadio #Propagation #HF #POTA #SOTA #LesF4
