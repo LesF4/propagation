@@ -1,42 +1,42 @@
 📡 LES F4 PROPAGATION — Bulletin hebdomadaire
-Semaine du lundi 19 octobre 2026 au dimanche 25 octobre 2026
-Données NOAA/SWPC : 27-Day Outlook, émission 2026 Oct 19 0141 UTC.
+Semaine du lundi 26 octobre 2026 au dimanche 1 novembre 2026
+Données NOAA/SWPC : 27-Day Outlook, émission 2026 Oct 26 0118 UTC.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 RÉSUMÉ EXPRESS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 La semaine pourrait être perturbée, avec des dégradations possibles et des changements rapides de propagation.
-Le vingt mètres est prioritaire, tandis que le dix-sept mètres reste à tester selon les ouvertures.
+Le vingt mètres est prioritaire en journée et le quarante mètres reste la valeur sûre en soirée.
 Les prévisions restent indicatives et doivent être confirmées par les balises et les conditions réellement observées.
 
-Le flux solaire F10.7 est prévu entre 95 et 105 sfu. 20 m est prioritaire ; 17 m reste à tester et 15 m peut s’ouvrir ponctuellement.
-Le Kp maximal prévu est 5 et l’indice Ap varie de 5 à 22. Surveillance renforcée : lundi 19, mardi 20, mercredi 21, samedi 24.
+Le flux solaire F10.7 est prévu entre 84 et 88 sfu. 20 m est la bande de jour prioritaire ; 40 m reste la valeur sûre en soirée et en repli.
+Le Kp maximal prévu est 5 et l’indice Ap varie de 5 à 30. Surveillance renforcée : samedi 31, dimanche 1.
 
 À retenir :
-• F10.7 : 95 à 105 sfu ;
-• Ap : 5 à 22 ; Kp maximal : 5 ;
-• bandes conseillées : 20 m, 17 m, 15 m ponctuel ;
+• F10.7 : 84 à 88 sfu ;
+• Ap : 5 à 30 ; Kp maximal : 5 ;
+• bandes conseillées : 20 m, 40 m, 80 m la nuit ;
 • les indices donnent une tendance : écouter les balises et vérifier Kp réel avant une activité importante.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SOURCES RECOUPÉES ET DIVERGENCES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-• NOAA/SWPC — prévision à 3 jours — disponible — édition : 2026 Oct 19 1230 UTC
-  G1 (Minor) geomagnetic storms are likely late 19 Oct and early 20 Oct due to the anticipated influences of a positive CH HSS. Probabilités protons : S1 or greater 5% 5% 5%
+• NOAA/SWPC — prévision à 3 jours — disponible — édition : 2026 Oct 26 1230 UTC
+  No G1 (Minor) or greater geomagnetic storms are expected. No significant transient or recurrent solar wind features are forecast. Probabilités protons : S1 or greater 1% 1% 1%
   https://services.swpc.noaa.gov/text/3-day-forecast.txt
 
-• SIDC/RWC Belgium — disponible — édition : 2026 Oct 19 1230 UTC
-  Solar flaring activity has been moderate over the past 24 hours, with one M-class flare and few C-class flares. The strongest flare was an M1.6 flare (SIDC Flare 8770) peaking at 09:03 UTC on October 19, associated with SIDC Sunspot Group 980 (NOAA Active Region 4551, magnetic type beta). There are currently four numbered active regions on the solar disk, all with a beta magnetic configuration. The solar flaring activity is expected to be low to moderate over the next 24 hours, with C-class flares very likely and a chance for M-class flares. Prévisions F10.7/Ap : 19 Oct 2026  10CM FLUX: 135 / AP: 008 ; 20 Oct 2026  10CM FLUX: 133 / AP: 018 ; 21 Oct 2026  10CM FLUX: 131 / AP: 010.
+• SIDC/RWC Belgium — disponible — édition : 2026 Oct 26 1230 UTC
+  Solar flaring activity was low over the past 24 hours, with few C-class flares. The strongest flare was a C1.9 flare (SIDC Flare 8800) peaking at 08:38 UTC on October 26, associated with SIDC Sunspot Group 990. There are currently two numbered active regions on the solar disk, both with magnetic type beta. SIDC Sunspot Group 989 has rotated on disk from the east limb, in the southeast quadrant. SIDC Sunspot Group 990 has emerged in the southwest quadrant. SIDC Sunspot Group 985 (NOAA Active Region 4560) has rotated behind the west limb. SIDC Sunspot Group 988 has decayed into plage. The solar flaring activity is expected to be low over the next 24 hours, with C-class… Prévisions F10.7/Ap : 26 Oct 2026  10CM FLUX: 087 / AP: 006 ; 27 Oct 2026  10CM FLUX: 085 / AP: 002 ; 28 Oct 2026  10CM FLUX: 084 / AP: 002.
   https://www.sidc.be/products/tot/
 
-• Met Office Space Weather — disponible — édition : 20:59 (GMT) on Sun 18 Oct 2026
-  Chance of isolated M-class flares. Chance of G1 Minor Storm days 2-3 (20-21 Oct)
+• Met Office Space Weather — disponible — édition : 01:18 (GMT) on Mon 26 Oct 2026
+  No significant space weather expected.
   https://weather.metoffice.gov.uk/specialist-forecasts/space-weather
 
-• Australian Space Weather Forecasting Centre — disponible — édition : 18 Oct 2026 23:46 UT)
-  Géomagnétisme : Date Ap Conditions 19 Oct 12 G0 20 Oct 18 G0, chance of G1 21 Oct 12 G0 COMMENT: Geomagnetic conditions in the Australian region were at the G0 level on UT day 18-Oct, with G0 conditions also recorded at the planetary scale. Mostly G0 conditions were observed in the Antarctic region, with G1 intervals observed at Mawson. G0 conditions are forecast on 19-21 Oct, with a chance of G1 on 20-Oct due to high speed wind stream effects from an equatorial coronal hole. ----------------------------------------------------------- HF : Latitude Band Date Low Middle High 19 Oct Normal Normal Normal 20 Oct Normal Normal Normal-fair 21 Oct Normal Normal Normal COMMENT: Global high-frequency (HF) radio propagation conditions were normal to fair on UT day 18-Oct, with fair conditions observed in high latitude regions during local night. Some degradations were also observed at the start of the UT in the Australian region, and at local dusk in…
+• Australian Space Weather Forecasting Centre — disponible — édition : 25 Oct 2026 23:30 UT)
+  Géomagnétisme : Date Ap Conditions 26 Oct 8 G0 27 Oct 6 G0 28 Oct 6 G0 COMMENT: G0 geomagnetic conditions were observed in the Australian region and at the planetary level on UT day 25-Oct. Mostly G0 geomagnetic conditions were observed in the Antarctic region, with an isolated period of G1 observed at Mawson. G0 planetary geomagnetic conditions are expected over 26-28 Oct. ----------------------------------------------------------- HF : Latitude Band Date Low Middle High 26 Oct Normal Normal Normal-fair 27 Oct Normal Normal Normal 28 Oct Normal Normal Normal COMMENT: Global high-frequency (HF) radio propagation conditions were mostly fair over UT day 25-Oct, with most degraded conditions observed in northern hemisphere regions. HF propagation conditions are forecast to be mostly normal over 26-28 Oct.…
   https://www.sws.bom.gov.au/Space_Weather/1/1
 
 Les produits n'ont ni le même horaire, ni la même échéance, ni la même méthode. Les écarts sont conservés ; le tableau NOAA à 27 jours sert uniquement de tendance pour les jours non couverts par les prévisions opérationnelles courtes.
@@ -45,13 +45,13 @@ Les produits n'ont ni le même horaire, ni la même échéance, ni la même mét
 INDICATEURS OFFICIELS NOAA
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-19 octobre 2026 : F10.7 100 | Ap 18 | Kp max 5
-20 octobre 2026 : F10.7 100 | Ap 22 | Kp max 5
-21 octobre 2026 : F10.7 105 | Ap 15 | Kp max 4
-22 octobre 2026 : F10.7 100 | Ap 10 | Kp max 3
-23 octobre 2026 : F10.7 100 | Ap 5 | Kp max 2
-24 octobre 2026 : F10.7 95 | Ap 15 | Kp max 4
-25 octobre 2026 : F10.7 95 | Ap 8 | Kp max 3
+26 octobre 2026 : F10.7 88 | Ap 5 | Kp max 2
+27 octobre 2026 : F10.7 84 | Ap 5 | Kp max 2
+28 octobre 2026 : F10.7 84 | Ap 5 | Kp max 2
+29 octobre 2026 : F10.7 84 | Ap 5 | Kp max 2
+30 octobre 2026 : F10.7 84 | Ap 5 | Kp max 2
+31 octobre 2026 : F10.7 84 | Ap 30 | Kp max 5
+1 novembre 2026 : F10.7 84 | Ap 20 | Kp max 4
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CONSÉQUENCES RADIO PROBABLES
@@ -68,33 +68,33 @@ CONSÉQUENCES RADIO PROBABLES
 JOUR PAR JOUR
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Lundi 19 — 🔴 Perturbé
-NOAA : F10.7 100, Ap 18, Kp max 5.
+Lundi 26 — 🟢 Plutôt calme
+NOAA : F10.7 88, Ap 5, Kp max 2.
 
-Mardi 20 — 🔴 Perturbé
-NOAA : F10.7 100, Ap 22, Kp max 5.
+Mardi 27 — 🟢 Plutôt calme
+NOAA : F10.7 84, Ap 5, Kp max 2.
 
-Mercredi 21 — 🟠 Actif
-NOAA : F10.7 105, Ap 15, Kp max 4.
+Mercredi 28 — 🟢 Plutôt calme
+NOAA : F10.7 84, Ap 5, Kp max 2.
 
-Jeudi 22 — 🟡 Variable
-NOAA : F10.7 100, Ap 10, Kp max 3.
+Jeudi 29 — 🟢 Plutôt calme
+NOAA : F10.7 84, Ap 5, Kp max 2.
 
-Vendredi 23 — 🟢 Plutôt calme
-NOAA : F10.7 100, Ap 5, Kp max 2.
+Vendredi 30 — 🟢 Plutôt calme
+NOAA : F10.7 84, Ap 5, Kp max 2.
 
-Samedi 24 — 🟠 Actif
-NOAA : F10.7 95, Ap 15, Kp max 4.
+Samedi 31 — 🔴 Perturbé
+NOAA : F10.7 84, Ap 30, Kp max 5.
 
-Dimanche 25 — 🟡 Variable
-NOAA : F10.7 95, Ap 8, Kp max 3.
+Dimanche 1 — 🟠 Actif
+NOAA : F10.7 84, Ap 20, Kp max 4.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 REPÈRES TERRAIN — OBSERVATIONS ET PLANIFICATION
 
 CE QUI A ÉTÉ REÇU
-2026-10-19 14:00:10 UTC
-40 m : 10107 paires · 20 m : 16674 paires · 17 m : 3992 paires · 15 m : 4601 paires · 10 m : 2374 paires
+2026-10-26 15:00:09 UTC
+40 m : 10123 paires · 20 m : 14122 paires · 17 m : 2942 paires · 15 m : 3172 paires · 10 m : 894 paires
 Réseau WSPR, fenêtre de 3 h ; une station au moins dans la zone 42–51,5°N / 5,2°O–8,3°E (France et alentours). Paires émetteur/récepteur distinctes par bande, données déclaratives.
 https://wspr.live/
 
