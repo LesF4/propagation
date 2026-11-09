@@ -1,42 +1,42 @@
 📡 LES F4 PROPAGATION — Bulletin hebdomadaire
-Semaine du lundi 2 novembre 2026 au dimanche 8 novembre 2026
-Données NOAA/SWPC : 27-Day Outlook, émission 2026 Nov 02 0218 UTC.
+Semaine du lundi 9 novembre 2026 au dimanche 15 novembre 2026
+Données NOAA/SWPC : 27-Day Outlook, émission 2026 Nov 09 0258 UTC.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 RÉSUMÉ EXPRESS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-La semaine devrait être variable, avec quelques périodes moins régulières à surveiller sur les bandes radioamateur.
-Le vingt mètres est prioritaire, tandis que le dix-sept mètres reste à tester selon les ouvertures.
+La semaine pourrait être active, avec une propagation parfois irrégulière et des bandes hautes plus fragiles.
+Le vingt mètres reste la base, avec le dix-sept puis le quinze mètres à tester en journée.
 Les prévisions restent indicatives et doivent être confirmées par les balises et les conditions réellement observées.
 
-Le flux solaire F10.7 est prévu entre 95 et 115 sfu. 20 m est prioritaire ; 17 m reste à tester et 15 m peut s’ouvrir ponctuellement.
-Le Kp maximal prévu est 3 et l’indice Ap varie de 5 à 10. Surveillance renforcée : aucune journée fortement perturbée dans l’outlook.
+Le flux solaire F10.7 est prévu entre 100 et 125 sfu. 20 m reste la base ; tester 17 m puis 15 m en journée, avec 10 m en opportunité.
+Le Kp maximal prévu est 4 et l’indice Ap varie de 5 à 15. Surveillance renforcée : lundi 9.
 
 À retenir :
-• F10.7 : 95 à 115 sfu ;
-• Ap : 5 à 10 ; Kp maximal : 3 ;
-• bandes conseillées : 20 m, 17 m, 15 m ponctuel ;
+• F10.7 : 100 à 125 sfu ;
+• Ap : 5 à 15 ; Kp maximal : 4 ;
+• bandes conseillées : 20 m, 17 m, 15 m, 10 m ponctuel ;
 • les indices donnent une tendance : écouter les balises et vérifier Kp réel avant une activité importante.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SOURCES RECOUPÉES ET DIVERGENCES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-• NOAA/SWPC — prévision à 3 jours — disponible — édition : 2026 Nov 02 1230 UTC
-  No G1 (Minor) or greater geomagnetic storms are expected. No significant transient or recurrent solar wind features are forecast. Probabilités protons : S1 or greater 1% 1% 1%
+• NOAA/SWPC — prévision à 3 jours — disponible — édition : 2026 Nov 09 1230 UTC
+  The geomagnetic field is likely to reach G1 (Minor) geomagnetic storm levels on 09 Nov due to continued negative polarity CH HSS influences. Probabilités protons : S1 or greater 15% 15% 15%
   https://services.swpc.noaa.gov/text/3-day-forecast.txt
 
-• SIDC/RWC Belgium — disponible — édition : 2026 Nov 02 1230 UTC
-  Solar flaring activity was low over the past 24 hours. A single C-class flare was observed (SIDC Flare 8811, C1.1), peaking at 12:36 UTC on November 01. It was associated with SIDC Sunspot Group 976 (NOAA Active Region 4564, magnetic type beta). There are currently three numbered active regions on the solar disk. The most complex ones have a beta magnetic configuration. SIDC Sunspot Group 992 (magnetic type beta) has rotated on disk from the east limb, in the southeast quadrant. The solar flaring activity is expected to be low over the next 24 hours, with a chance for C-class. Prévisions F10.7/Ap : 02 Nov 2026  10CM FLUX: 096 / AP: 013 ; 03 Nov 2026  10CM FLUX: 099 / AP: 009 ; 04 Nov 2026  10CM FLUX: 102 / AP: 007.
+• SIDC/RWC Belgium — disponible — édition : 2026 Nov 09 1230 UTC
+  Solar flaring activity was moderate over the past 24 hours, with two M-class flares and multiple C-class flares recorded. The largest flare was an M1.1 flare (SIDC Flare 8889), peaking at 15:37 UTC on November 8, associated with SIDC Sunspot Group 992 (NOAA Active Region 4566; magnetic type beta-gamma-delta). There are currently five numbered sunspot groups on the visible solar disk. SIDC Sunspot Group 992 is the largest and most magnetically complex sunspot group on the visible solar disk and was the driver of all the observed flaring activity. The returning SIDC Sunspot Group 985 (NOAA Active Region 4572 emerged in the northeastern quadrant of the solar disk. SIDC… Prévisions F10.7/Ap : 09 Nov 2026  10CM FLUX: 133 / AP: 014 ; 10 Nov 2026  10CM FLUX: 133 / AP: 012 ; 11 Nov 2026  10CM FLUX: 133 / AP: 012.
   https://www.sidc.be/products/tot/
 
-• Met Office Space Weather — disponible — édition : 13:34 (GMT) on Mon 2 Nov 2026
-  Chance of G1/Minor Storms Day 4 (05 Nov).
+• Met Office Space Weather — disponible — édition : 13:44 (GMT) on Mon 9 Nov 2026
+  Falling Slight Chance of further Minor geomagnetic storm G1. Further Minor radio blackouts (R1s) likely.
   https://weather.metoffice.gov.uk/specialist-forecasts/space-weather
 
-• Australian Space Weather Forecasting Centre — disponible — édition : 01 Nov 2026 23:33 UT)
-  Géomagnétisme : Date Ap Conditions 02 Nov 15 G0, chance G1 03 Nov 8 G0 04 Nov 5 G0 COMMENT: ASWFC Geomagnetic Warning 65 was issued on 31 October and is current for 31 Oct to 2 Nov. G1 geomagnetic conditions were observed across the Australian region on UT day 01-Nov, with G1 conditions also reported at the planetary level. Mostly G1 geomagnetic conditions were observed in the Antarctic region, with an isolated period of G2 recorded at Mawson. G0 planetary geomagnetic conditions, with a chance of G1, are expected on 02-Nov due to ongoing coronal hole high-speed wind stream effects. G0 conditions are forecast across 03-04 Nov as these effects wane.… HF : Latitude Band Date Low Middle High 02 Nov Poor-fair Fair-normal Poor-fair 03 Nov Normal Normal Normal-fair 04 Nov Normal Normal Normal COMMENT: Global high-frequency (HF) radio propagation conditions were poor over UT day 01-Nov, with worse degradations observed in the northern hemisphere. Further degradations are expected on 02-Nov due to forecast geomagnetic activity. Global HF propagation conditions are forecast…
+• Australian Space Weather Forecasting Centre — disponible — édition : 08 Nov 2026 23:31 UT)
+  Géomagnétisme : Date Ap Conditions 09 Nov 30 G1-G2 10 Nov 14 G0 11 Nov 10 G0 COMMENT: ASWFC Geomagnetic Warning 67 was issued on 7 November and is current for 7-9 Nov. G0 geomagnetic conditions were observed in the Australian region on UT day 08-Nov. G1 conditions were observed at the planetary level. G2 geomagnetic conditions were observed in the Antarctic region, with an isolated period of G3 observed at Mawson. G1-G2 planetary geomagnetic conditions are forecast on 09-Nov as Earth enters the section of greatest latitudinal extent within the elongated equatorial coronal hole. G0 geomagnetic conditions are expected over 10-11 Nov.… HF : Latitude Band Date Low Middle High 09 Nov Fair Fair Fair-poor 10 Nov Normal Normal Normal-fair 11 Nov Normal Normal Normal-fair COMMENT: Global high-frequency (HF) radio propagation conditions were normal to fair on UT day 08-Nov, with degradations observed at low latitudes, particularly over the South American region late in the UT day. Global HF propagation conditions are forecast to be fair on 09-Nov due to…
   https://www.sws.bom.gov.au/Space_Weather/1/1
 
 Les produits n'ont ni le même horaire, ni la même échéance, ni la même méthode. Les écarts sont conservés ; le tableau NOAA à 27 jours sert uniquement de tendance pour les jours non couverts par les prévisions opérationnelles courtes.
@@ -45,13 +45,13 @@ Les produits n'ont ni le même horaire, ni la même échéance, ni la même mét
 INDICATEURS OFFICIELS NOAA
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-2 novembre 2026 : F10.7 95 | Ap 10 | Kp max 3
-3 novembre 2026 : F10.7 100 | Ap 5 | Kp max 2
-4 novembre 2026 : F10.7 100 | Ap 5 | Kp max 2
-5 novembre 2026 : F10.7 105 | Ap 10 | Kp max 3
-6 novembre 2026 : F10.7 110 | Ap 10 | Kp max 3
-7 novembre 2026 : F10.7 115 | Ap 10 | Kp max 3
-8 novembre 2026 : F10.7 115 | Ap 5 | Kp max 2
+9 novembre 2026 : F10.7 125 | Ap 15 | Kp max 4
+10 novembre 2026 : F10.7 125 | Ap 10 | Kp max 3
+11 novembre 2026 : F10.7 120 | Ap 10 | Kp max 3
+12 novembre 2026 : F10.7 120 | Ap 10 | Kp max 3
+13 novembre 2026 : F10.7 120 | Ap 5 | Kp max 2
+14 novembre 2026 : F10.7 115 | Ap 5 | Kp max 2
+15 novembre 2026 : F10.7 100 | Ap 5 | Kp max 2
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CONSÉQUENCES RADIO PROBABLES
@@ -68,33 +68,33 @@ CONSÉQUENCES RADIO PROBABLES
 JOUR PAR JOUR
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Lundi 2 — 🟡 Variable
-NOAA : F10.7 95, Ap 10, Kp max 3.
+Lundi 9 — 🟠 Actif
+NOAA : F10.7 125, Ap 15, Kp max 4.
 
-Mardi 3 — 🟢 Plutôt calme
-NOAA : F10.7 100, Ap 5, Kp max 2.
+Mardi 10 — 🟡 Variable
+NOAA : F10.7 125, Ap 10, Kp max 3.
 
-Mercredi 4 — 🟢 Plutôt calme
-NOAA : F10.7 100, Ap 5, Kp max 2.
+Mercredi 11 — 🟡 Variable
+NOAA : F10.7 120, Ap 10, Kp max 3.
 
-Jeudi 5 — 🟡 Variable
-NOAA : F10.7 105, Ap 10, Kp max 3.
+Jeudi 12 — 🟡 Variable
+NOAA : F10.7 120, Ap 10, Kp max 3.
 
-Vendredi 6 — 🟡 Variable
-NOAA : F10.7 110, Ap 10, Kp max 3.
+Vendredi 13 — 🟢 Plutôt calme
+NOAA : F10.7 120, Ap 5, Kp max 2.
 
-Samedi 7 — 🟡 Variable
-NOAA : F10.7 115, Ap 10, Kp max 3.
-
-Dimanche 8 — 🟢 Plutôt calme
+Samedi 14 — 🟢 Plutôt calme
 NOAA : F10.7 115, Ap 5, Kp max 2.
+
+Dimanche 15 — 🟢 Plutôt calme
+NOAA : F10.7 100, Ap 5, Kp max 2.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 REPÈRES TERRAIN — OBSERVATIONS ET PLANIFICATION
 
 CE QUI A ÉTÉ REÇU
-2026-11-02 15:00:06 UTC
-40 m : 11930 paires · 20 m : 11881 paires · 17 m : 2770 paires · 15 m : 2667 paires · 10 m : 1329 paires
+2026-11-09 15:00:03 UTC
+40 m : 9173 paires · 20 m : 15241 paires · 17 m : 4622 paires · 15 m : 4582 paires · 10 m : 2857 paires
 Réseau WSPR, fenêtre de 3 h ; une station au moins dans la zone 42–51,5°N / 5,2°O–8,3°E (France et alentours). Paires émetteur/récepteur distinctes par bande, données déclaratives.
 https://wspr.live/
 
