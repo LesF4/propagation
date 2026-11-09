@@ -93,8 +93,8 @@ NOAA : F10.7 100, Ap 5, Kp max 2.
 REPÈRES TERRAIN — OBSERVATIONS ET PLANIFICATION
 
 CE QUI A ÉTÉ REÇU
-2026-11-09 15:05:31 UTC
-40 m : 9276 paires · 20 m : 15220 paires · 17 m : 4613 paires · 15 m : 4581 paires · 10 m : 2905 paires
+2026-11-09 15:09:28 UTC
+40 m : 9258 paires · 20 m : 15171 paires · 17 m : 4615 paires · 15 m : 4577 paires · 10 m : 2916 paires
 Réseau WSPR, fenêtre de 3 h ; une station au moins dans la zone 42–51,5°N / 5,2°O–8,3°E (France et alentours). Paires émetteur/récepteur distinctes par bande, données déclaratives.
 https://wspr.live/
 
