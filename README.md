@@ -1,8 +1,8 @@
 # 📡 LES F4 PROPAGATION
 
-## Édition active : 9 novembre 2026 au 15 novembre 2026
+## Édition active : 16 novembre 2026 au 22 novembre 2026
 
-[▶ Bulletin animé — Flux vidéo V2](https://lesf4.github.io/propagation/) · [📄 Bulletin texte](https://lesf4.github.io/propagation/LES-F4-PROPAGATION-2026-11-09-au-2026-11-15.txt)
+[▶ Bulletin animé — Flux vidéo V2](https://lesf4.github.io/propagation/) · [📄 Bulletin texte](https://lesf4.github.io/propagation/LES-F4-PROPAGATION-2026-11-16-au-2026-11-22.txt)
 
 ## Publication autonome
 
